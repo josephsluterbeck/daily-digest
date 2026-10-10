@@ -2,6 +2,13 @@ import feedparser
 import html, re
 from datetime import datetime, timezone
 
+# Browser-like User-Agent
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/126.0 Safari/537.36"
+)
+
 # Strip HTML and cut to 200 characters
 def _clean(text, limit=200):
     text = re.sub(r"<[^>]+>", "", text or "")  # drop tags
@@ -17,7 +24,7 @@ def _to_utc(entry):
     return datetime(*t[:6], tzinfo=timezone.utc)
 
 # Fetch one RSS/Atom feed and return list of item dicts
-def fetch_feed(url):
+def fetch_feed(url, agent=USER_AGENT):
     d = feedparser.parse(url)
     if d.bozo and not d.entries:
         raise RuntimeError(f"Could not fetch feed {url}: {d.get('bozo_exception')}")

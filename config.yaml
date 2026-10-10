@@ -1,0 +1,56 @@
+max_age_hours: 24
+
+# Order here =  order in the Discord message
+# Right side is label on the embed
+
+categories:
+  world: World News
+  politics: Politics
+  tech: Tech / CS
+  stem: STEM
+  health: Health
+  nba: NBA
+  gaming: Gaming
+
+sources:
+  # World news
+  - name: The Guardian World
+    url: https://www.theguardian.com/world/rss
+    category: world
+    weight: 0.9
+  
+  # Politics
+  - name: The Hill
+    url: https://thehill.com/news/feed/
+    category: politics
+    weight: 0.9
+  
+  # Tech / CS
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    category: tech
+    weight: 1.0
+  
+  # STEM
+  - name: NASA News
+    url: https://www.nasa.gov/news-release/feed/
+    category: stem
+    weight: 0.8
+  
+  # Health
+  - name: NPR Health
+    url: https://feeds.npr.org/1128/rss.xml
+    category: heatlth
+    weight: 0.9
+  
+  # NBA
+  - name: ESPN NBA
+    url: https://www.espn.com/espn/rss/nba/news
+    category: nba
+    weight: 0.9
+  
+  # Gaming
+  - name: Polygon
+    url: https://www.polygon.com/rss/index.xml
+    category: gaming
+    weight: 0.9
