@@ -1,0 +1,36 @@
+name: Daily Digest
+
+on:
+    schedule:
+        - cron: "37 11 * * *"
+    workflow_dispatch:
+        inputs:
+            dry_run:
+                description: "Print the digest instead of sending it"
+                type: boolean
+                default: false
+
+jobs:
+    digest:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repo
+              uses: actions/checkout@v4
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                python-version: "3.12"
+                cache: pip
+            
+            - name: Install dependencies
+              run: pip install -r requirements.txt
+            
+            - name: Send digest
+              env:
+                DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+              run: |
+                if [ "${{ inputs.dry_run }}" = "true" ]; then
+                    python digest/main.py --dry-run
+                else
+                    python digest/main.py
+                fi
