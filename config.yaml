@@ -63,6 +63,10 @@ sources:
     url: https://www.espn.com/espn/rss/nba/news
     category: nba
     weight: 0.9
+  - name: CBS Sports NBA
+    url: https://www.cbssports.com/rss/headlines/nba/
+    category: nba
+    weight: 0.9
   
   # Gaming
   - name: Polygon

@@ -13,6 +13,9 @@ on:
 jobs:
     digest:
         runs-on: ubuntu-latest
+        permissions:
+            contents: read
+            models: read
         steps:
             - name: Check out repo
               uses: actions/checkout@v5
@@ -28,6 +31,7 @@ jobs:
             - name: Send digest
               env:
                 DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+                GITHUB_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               run: |
                 if [ "${{ inputs.dry_run }}" = "true" ]; then
                     python digest/main.py --dry-run
