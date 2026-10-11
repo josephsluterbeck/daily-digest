@@ -5,7 +5,7 @@ def _keyword_hits(text, keywords):
     return sum(
         (weight or 1)
         for kw, weight in keywords.items()
-        if re.search(rf"\b{re.escape}\b", text, re.IGNORECASE)
+        if re.search(rf"\b{re.escape(kw)}\b", text, re.IGNORECASE)
     )
 
 # Score = (keyword hits in title x 2 + hits in summary) x source weight
