@@ -1,3 +1,4 @@
+max_items: 7
 max_age_hours: 24
 
 # Order here =  order in the Discord message
@@ -11,6 +12,16 @@ categories:
   health: Health
   nba: NBA
   gaming: Gaming
+
+keywords:
+  python: 1
+  gpu: 1
+  linux: 1
+  open source: 1
+  playstation: 1
+  nasa: 1
+  space: 1
+  ohio: 1
 
 sources:
   # World news

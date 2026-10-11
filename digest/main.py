@@ -4,10 +4,11 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import yaml
 from fetch import fetch_feed
-from post import send
+from filter import dedupe, filter_recent
+from post import fit_to_limits, send
+from rank import pick_top
 
 CONFIG_PATH = Path(__file__).resolve().parent.parent / "config.yaml"
-OLDEST = datetime.min.replace(tzinfo=timezone.utc)
 
 # Read config.yaml from repo root and return as a dict
 def load_config():
@@ -32,32 +33,6 @@ def collect_items(sources):
             item["weight"] = source.get("weight", 1.0)
             items.append(item)
     return items, failed
-
-# Rate how good an item is; its source weight + the weight of every keyword that appears in its title or summary
-def score(item, keywords):
-    text = f"{item['title']} {item['summary']}".lower()
-    bonus = sum(w for kw, w in keywords.items() if kw.lower() in text)
-    return item["weight"] + bonus
-
-""" 
-Choose the single best item for each category, in config order
-Only items newer than max_age_hours are considered
-If a category has none, all of its items are used instead
-Categories with no items are skipped
-"""
-def pick_one_per_category(items, categories, keywords, max_age_hours):
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
-    picks = []
-    for category in categories:
-        in_cat = [i for i in items if i["category"] == category]
-        recent = [i for i in in_cat if i["published"] and i["published"] >= cutoff]
-        pool = recent or in_cat
-        if not pool:
-            print(f"No items found for {category}")
-            continue
-        best = max(pool, key=lambda i: (score(i, keywords), i["published"] or OLDEST))
-        picks.append(best)
-    return picks
  
 # Turn one feed into Discord embed dict
 # Category label shows above the title and the source name in the footer
@@ -87,9 +62,11 @@ def main():
     keywords = config.get("keywords") or {}
 
     items, failed = collect_items(config["sources"])
-    picks = pick_one_per_category(items, categories, keywords,
-                                  config.get("max_age_hours", 24))
+    items = filter_recent(items, config.get("max_age_hours", 24))
+    items = dedupe(items)
+    picks = pick_top(items, categories, keywords, config.get("max_items", 7))
     embeds = [build_embed(i, categories[i["category"]]) for i in picks]
+    embeds = fit_to_limits(embeds)
 
     today = datetime.now().strftime("%a %b %d")
     content = f"Daily Digest · {today}"
