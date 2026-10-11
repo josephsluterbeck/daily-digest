@@ -3,7 +3,7 @@ import requests
 import trafilatura
 from fetch import USER_AGENT
 
-MODELS_ENDPOINT = "https://models.github.ai/inference/chat/completions"
+MODELS_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
 
 # Cap on article text sent to the model
 MAX_INPUT_CHARS = 4000
@@ -55,11 +55,13 @@ def ai_summary(title, text, model, token):
                 {"role": "user", "content": f"Title: {title}\n\n{text[:MAX_INPUT_CHARS]}"},
             ],
             "temperature": 0.3,
-            "max_tokens": 150,
+            "max_tokens": 1024,
+            "reasoning_effort": "minimal",
         },
         timeout=30
     )
-    r.raise_for_status()
+    if not r.ok:
+        raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
     try:
         data = r.json()
     except ValueError:
@@ -78,7 +80,7 @@ def summarize_item(item, model, max_chars = 400):
         print(" -> using RSS summary")
         return
 
-    token = os.environ.get("GITHUB_MODELS_TOKEN")
+    token = os.environ.get("GEMINI_API_KEY")
     if token:
         try:
             item["summary"] = trim_to_sentence(ai_summary(item["title"], text, model, token), max_chars)

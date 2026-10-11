@@ -5,7 +5,7 @@ max_age_hours: 24
 # Right side is label on the embed
 
 summary:
-  model: openai/gpt-4o-mini
+  model: gemini-3.1-flash-lite
   max_chars: 400
 
 categories:
@@ -35,16 +35,24 @@ sources:
     weight: 0.9
   
   # Politics
+  - name: NPR Politics
+    url: https://feeds.npr.org/1014/rss.xml
+    category: politics
+    weight: 1.0
   - name: The Hill
     url: https://thehill.com/news/feed/
     category: politics
-    weight: 0.9
+    weight: 0.7
   
   # Tech / CS
   - name: Ars Technica
     url: https://feeds.arstechnica.com/arstechnica/index
     category: tech
     weight: 1.0
+  - name: Hacker News
+    url: https://hnrss.org/frontpage
+    category: tech
+    weight: 0.9
   
   # STEM
   - name: NASA News
