@@ -70,14 +70,14 @@ def build_embed(item, label):
 # Build the message text above the embeds
 def build_header(count, failed, methods):
     now = datetime.now()
-    date = f"{now:%A}, {now:%B}, {now.day}"
+    date = f"{now:%A}, {now:%B} {now.day}"
 
     if count == 0:
         lines = [f"Daily Digest · {date}",
                  "Nothing new today. Check back tomorrow."]
     else:
         noun = "story" if count == 1 else "stories"
-        lines = [f"Daily Digest · {date} · {count} · {noun}"]
+        lines = [f"Daily Digest · {date} · {count} {noun}"]
         if "ai" not in methods:
             lines.append("AI summaries unavailable today. Check the log.")
     if failed:
