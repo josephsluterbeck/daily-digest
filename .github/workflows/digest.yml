@@ -30,7 +30,7 @@ jobs:
             - name: Send digest
               env:
                 DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-                GITHUB_MODELS_TOKEN: ${{ secrets.GEMINI_API_KEY }}
+                GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
               run: |
                 if [ "${{ inputs.dry_run }}" = "true" ]; then
                     python digest/main.py --dry-run
