@@ -49,7 +49,7 @@ sources:
   
   # Tech / CS
   - name: Ars Technica
-    url: https://feeds.arstechnica.com/arstechnica/index
+    url: https://feeds.arstechnica.com/arstechnica/technology-lab
     category: tech
     weight: 1.0
     color: "#FF4E00"
