@@ -7,6 +7,7 @@ from fetch import fetch_feed
 from filter import dedupe, filter_recent
 from post import fit_to_limits, send
 from rank import pick_top
+from summarize import summarize_item
 
 CONFIG_PATH = Path(__file__).resolve().parent.parent / "config.yaml"
 
@@ -65,6 +66,13 @@ def main():
     items = filter_recent(items, config.get("max_age_hours", 24))
     items = dedupe(items)
     picks = pick_top(items, categories, keywords, config.get("max_items", 7))
+
+    summary_cfg = config.get("summary") or {}
+    for item in picks:
+        summarize_item(item,
+                       summary_cfg.get("model", "openai/gpt-4o-mini"),
+                       summary_cfg.get("max_chars", 400))
+
     embeds = [build_embed(i, categories[i["category"]]) for i in picks]
     embeds = fit_to_limits(embeds)
 

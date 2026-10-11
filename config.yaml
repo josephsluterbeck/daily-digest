@@ -4,6 +4,10 @@ max_age_hours: 24
 # Order here =  order in the Discord message
 # Right side is label on the embed
 
+summary:
+  model: openai/gpt-4o-mini
+  max_chars: 400
+
 categories:
   world: World News
   politics: Politics
@@ -51,7 +55,7 @@ sources:
   # Health
   - name: NPR Health
     url: https://feeds.npr.org/1128/rss.xml
-    category: heatlth
+    category: health
     weight: 0.9
   
   # NBA
