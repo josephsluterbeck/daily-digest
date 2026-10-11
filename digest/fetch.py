@@ -23,6 +23,20 @@ def _to_utc(entry):
         return None
     return datetime(*t[:6], tzinfo=timezone.utc)
 
+# Find a thumbnail image URL for an entry if provided
+# Return None otherwise
+def _image(entry):
+    for m in entry.get("media_thumbnail", []):
+        if m.get("url"):
+            return m["url"]
+        for m in entry.get("media_content", []):
+            if m.get("url") and (m.get("medium") == "image" or str(m.get("type", "")).startswith("image")):
+                return m["url"]
+        for link in entry.get("links", []):
+            if link.get("rel") == "enclosure" and str(link.get("type", "")).startswith("image"):
+                return link.get("href")
+        return None
+
 # Fetch one RSS/Atom feed and return list of item dicts
 def fetch_feed(url, agent=USER_AGENT):
     d = feedparser.parse(url)
@@ -37,5 +51,6 @@ def fetch_feed(url, agent=USER_AGENT):
             "summary": _clean(entry.get("summary", "")),
             "published": _to_utc(entry),
             "source": source,
+            "image": _image(entry),
         })
     return items

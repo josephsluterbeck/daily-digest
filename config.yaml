@@ -33,51 +33,61 @@ sources:
     url: https://www.theguardian.com/world/rss
     category: world
     weight: 0.9
+    color: "#052962"
   
   # Politics
   - name: NPR Politics
     url: https://feeds.npr.org/1014/rss.xml
     category: politics
     weight: 1.0
+    color: "#D62021"
   - name: The Hill
     url: https://thehill.com/news/feed/
     category: politics
     weight: 0.7
+    color: "#1D4E89"
   
   # Tech / CS
   - name: Ars Technica
     url: https://feeds.arstechnica.com/arstechnica/index
     category: tech
     weight: 1.0
+    color: "#FF4E00"
   - name: Hacker News
     url: https://hnrss.org/frontpage
     category: tech
     weight: 0.9
+    color: "#FF6600"
   
   # STEM
   - name: NASA News
     url: https://www.nasa.gov/news-release/feed/
     category: stem
     weight: 0.8
+    color: "#0B3D91"
   
   # Health
   - name: NPR Health
     url: https://feeds.npr.org/1128/rss.xml
     category: health
     weight: 0.9
+    color: "#D62021"
   
   # NBA
   - name: ESPN NBA
     url: https://www.espn.com/espn/rss/nba/news
     category: nba
     weight: 0.9
+    color: "#CC0000"
   - name: CBS Sports NBA
     url: https://www.cbssports.com/rss/headlines/nba/
     category: nba
     weight: 0.9
+    color: "#0B4EA2"
   
   # Gaming
   - name: Polygon
     url: https://www.polygon.com/rss/index.xml
     category: gaming
     weight: 0.9
+    color: "#FF0062"

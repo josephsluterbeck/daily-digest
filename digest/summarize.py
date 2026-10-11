@@ -78,15 +78,15 @@ def summarize_item(item, model, max_chars = 400):
     text = fetch_article_text(item["link"])
     if not text:
         print(" -> using RSS summary")
-        return
-
+        return "rss"
     token = os.environ.get("GEMINI_API_KEY")
     if token:
         try:
             item["summary"] = trim_to_sentence(ai_summary(item["title"], text, model, token), max_chars)
             print(" -> AI summary")
-            return
+            return "ai"
         except Exception as e:
             print(f" AI summary failed: {e}")
     item["summary"] = trim_to_sentence(text, max_chars)
     print(" -> article lead")
+    return "lead"
