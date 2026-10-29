@@ -1,5 +1,97 @@
 {
-  "links": {},
-  "messages": [],
-  "week": []
+  "last_posted": "2026-10-29",
+  "links": {
+    "https://cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-76ers-on-wednesday": "2026-10-29T11:30:26.722305+00:00",
+    "https://nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy": "2026-10-29T11:30:26.722305+00:00",
+    "https://npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender": "2026-10-29T11:30:26.722305+00:00",
+    "https://npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage": "2026-10-29T11:30:26.722305+00:00",
+    "https://polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained": "2026-10-29T11:30:26.722305+00:00",
+    "https://theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank": "2026-10-29T11:30:26.722305+00:00"
+  },
+  "messages": [
+    {
+      "id": "1565327319969833040",
+      "posted": "2026-10-29T11:30:26.722305+00:00"
+    }
+  ],
+  "week": [
+    {
+      "category": "world",
+      "color": 338274,
+      "image": null,
+      "link": "https://www.theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank",
+      "picked": "2026-10-29T11:30:26.722305+00:00",
+      "published": "2026-10-29T09:10:22+00:00",
+      "score": 0.0,
+      "source": "The Guardian World",
+      "summary": "The Resolution Foundation has criticized Chancellor John Healey’s new budget as poorly targeted and ineffective at boosting living standards. The thinktank warns that the measures fail to protect the poorest households, leaving Britons facing higher energy bills and a significant drop in disposable income.",
+      "title": "‘Scattergun’ budget will still leave Britons facing higher energy bills, says thinktank",
+      "weight": 0.9
+    },
+    {
+      "category": "politics",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+      "picked": "2026-10-29T11:30:26.722305+00:00",
+      "published": "2026-10-29T09:00:00+00:00",
+      "score": 0.0,
+      "source": "NPR Politics",
+      "summary": "With the 2026 midterm elections approaching, Democrats are heavily favored to win control of the House of Representatives. Both parties are pouring millions into 70 competitive districts to influence the final margin of power. This shift is driven by economic concerns and a wave of retirements that could reshape the legislative landscape.",
+      "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+      "weight": 1.0
+    },
+    {
+      "category": "stem",
+      "color": 736657,
+      "image": null,
+      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "picked": "2026-10-29T11:30:26.722305+00:00",
+      "published": "2026-10-29T02:49:59+00:00",
+      "score": 3.2,
+      "source": "NASA News",
+      "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on Nov. 30, 2026.",
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "weight": 0.8
+    },
+    {
+      "category": "health",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender",
+      "picked": "2026-10-29T11:30:26.722305+00:00",
+      "published": "2026-10-29T09:00:00+00:00",
+      "score": 0.0,
+      "source": "NPR Health",
+      "summary": "Missouri activists are conducting door-to-door \"deep canvassing\" to oppose a proposed constitutional amendment that would ban gender-affirming care for minors. This effort aims to sway undecided voters ahead of the midterms, as the state remains divided on the future of transgender healthcare access.",
+      "title": "Ahead of midterms, Missourians defend transgender healthcare",
+      "weight": 0.9
+    },
+    {
+      "category": "nba",
+      "color": 741026,
+      "image": null,
+      "link": "https://www.cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-76ers-on-wednesday/",
+      "picked": "2026-10-29T11:30:26.722305+00:00",
+      "published": "2026-10-28T22:13:32+00:00",
+      "score": 0.0,
+      "source": "CBS Sports NBA",
+      "summary": "The SportsLine projection model and expert analysts have released their top betting picks for Wednesday’s 12-game NBA slate. The model specifically favors the Philadelphia 76ers to cover as 5.5-point favorites against the Indiana Pacers. These insights are significant for bettors looking to leverage a model that has historically yielded consistent long-term profits.",
+      "title": "2026 NBA odds, picks, predictions, best bets, player props: Experts, model backing 76ers on Wednesday",
+      "weight": 0.9
+    },
+    {
+      "category": "gaming",
+      "color": 16711778,
+      "image": null,
+      "link": "https://www.polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained/",
+      "picked": "2026-10-29T11:30:26.722305+00:00",
+      "published": "2026-10-29T11:00:18+00:00",
+      "score": 0.0,
+      "source": "Polygon",
+      "summary": "Twenty years after its release, the *Avatar: The Last Airbender* episode \"The Guru\" remains a vital touchstone for understanding spiritual growth and emotional trauma. By teaching Aang to clear his chakras, Guru Pathik provides a framework for overcoming fear and guilt that continues to influence modern storytelling in the franchise.",
+      "title": "20 Years Later, Avatar’s Deepest Episode Has Never Been More Important",
+      "weight": 0.9
+    }
+  ]
 }
