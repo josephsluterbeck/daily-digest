@@ -12,6 +12,9 @@ A free, self-running news digest for Discord. Every morning it pulls articles fr
 - **AI summaries.** Each article is downloaded and summarized in 2–3 plain sentences using Google Gemini's free tier.
 - **Graceful fallbacks.** If the AI call fails, it uses the article's opening sentences; if the article can't be downloaded, it uses the feed's own summary. The digest always sends.
 - **Smart picking.** Filters to the last 24 hours, removes duplicate stories across feeds (by link, ignoring tracking parameters, and by title), and ranks by keyword matches and source weight.
+- **No repeats.** Posted links are saved in `seen.json`, so the same story never shows up twice.
+- **Weekly roundup.** Every Sunday, a "Week in Review" message collects the best story per category from the past week.
+- **Self-cleaning.** Digest messages older than 7 days are deleted automatically.
 - **Fully configurable.** Sources, categories, keywords, weights and colors all live in one `config.yaml`.
 - **Visible failures.** Broken feeds and unavailable AI summaries are flagged right in the Discord message.
 - **Runs for free.** A scheduled GitHub Actions job.
@@ -20,7 +23,7 @@ A free, self-running news digest for Discord. Every morning it pulls articles fr
 ## How it works
 
 ```
-fetch feeds → keep last 24h → dedupe → pick best per category → summarize → post to Discord
+fetch feeds → keep last 24h → skip already posted → dedupe → pick best per category → summarize → post to Discord
 ```
 
 | File | What it does |
@@ -29,7 +32,9 @@ fetch feeds → keep last 24h → dedupe → pick best per category → summariz
 | `digest/filter.py` | Drops old or undated items and removes duplicates |
 | `digest/rank.py` | Scores items and picks the best one per category |
 | `digest/summarize.py` | Extracts article text (trafilatura) and summarizes it (Gemini) |
-| `digest/post.py` | Sends the message to a Discord webhook within Discord's limits |
+| `digest/post.py` | Sends and deletes Discord webhook messages within Discord's limits |
+| `digest/state.py` | Reads and writes `seen.json` |
+| `seen.json` | Posted links, this week's picks and message IDs; updated by the workflow after each run |
 | `digest/main.py` | Runs the whole pipeline; `--dry-run` prints instead of sending |
 | `config.yaml` | Sources, categories, keywords and settings |
 
@@ -70,8 +75,9 @@ GEMINI_API_KEY=your-gemini-key
 
 ```bash
 cd digest
-python main.py --dry-run    # prints the message, sends nothing
-python main.py              # posts to Discord
+python main.py --dry-run             # prints the message, sends nothing
+python main.py --dry-run --weekly    # also previews the Sunday roundup
+python main.py                       # posts to Discord
 ```
 
 ### 6. Schedule it with GitHub Actions
@@ -80,9 +86,16 @@ python main.py              # posts to Discord
 2. Open the **Actions** tab and enable workflows.
 3. Run **Daily Digest → Run workflow** once to test it. Tick **dry_run** to print without sending.
 
-The digest then runs every day at 11:37 UTC. To change the time, edit the `cron` line in `.github/workflows/digest.yml` (times are in UTC).
+The workflow has a daily `schedule`, but GitHub often starts scheduled runs hours late. For an on-time digest, trigger it from an external cron service such as [cron-job.org](https://cron-job.org) at the time you want:
 
-> GitHub pauses scheduled workflows in public repos after 60 days without commits. If the digest stops arriving, re-enable it from the Actions tab.
+- **URL:** `https://api.github.com/repos/YOUR-USERNAME/daily-digest/actions/workflows/digest.yml/dispatches`
+- **Method:** `POST`, body `{"ref":"main"}`
+- **Headers:** `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`, `Content-Type: application/json`
+- **Token:** a fine-grained GitHub token with access to only this repo and **Actions: Read and write**
+
+The GitHub schedule stays on as a backup. If the digest already went out that day, a late scheduled run skips itself.
+
+> The workflow commits `seen.json` after every run, so run `git pull` before making local changes.
 
 ## Customizing `config.yaml`
 
@@ -130,6 +143,7 @@ keywords:
 ```yaml
 max_items: 7          # max stories per message (Discord allows 10)
 max_age_hours: 24     # ignore anything older than this
+delete_after_days: 7  # delete digest messages after this many days
 
 summary:
   model: gemini-3.1-flash-lite   # any free Gemini Flash-Lite model

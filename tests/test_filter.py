@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta, timezone
-from filter import dedupe, filter_recent, normalize_link
+from filter import dedupe, drop_seen, filter_recent, normalize_link
 
 def hours_ago(hours):
     return datetime.now(timezone.utc) - timedelta(hours=hours)
@@ -37,3 +37,9 @@ def test_dedupe_keeps_different_stories(make_item):
     a = make_item(title="One", link="https://a.com/1")
     b = make_item(title="Two", link="https://a.com/2")
     assert len(dedupe([a, b])) == 2
+
+def test_drop_seen_removes_previously_posted_links(make_item):
+    posted = make_item(link="https://example.com/story?utm_source=rss")
+    fresh = make_item(link="https://example.com/other")
+    seen = {normalize_link("https://www.example.com/story/"): "2026-10-11T11:37:00+00:00"}
+    assert drop_seen([posted, fresh], seen) == [fresh]

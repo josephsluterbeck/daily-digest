@@ -6,12 +6,26 @@ MAX_TOTAL_CHARS = 6000
 
 load_dotenv()
 
+def _webhook_url():
+    return os.environ["DISCORD_WEBHOOK_URL"].rstrip("/")
+
 # Send a message to the Discord webhook
 # Raises an exception if the request fails
 def send(content="", embeds=None):
-    url = os.environ["DISCORD_WEBHOOK_URL"]
-    r = requests.post(url, json={"content": content, "embeds": embeds or []}, timeout=15)
+    r = requests.post(
+        _webhook_url(),
+        params={"wait": "true"},
+        json={"content": content, "embeds": embeds or []},
+        timeout=15,
+    )
     r.raise_for_status()
+    return r.json()["id"]
+
+# Delete a message the webhook posted
+def delete_message(message_id):
+    r = requests.delete(f"{_webhook_url()}/messages/{message_id}", timeout=15)
+    if r.status_code != 404:
+        r.raise_for_status()
 
 # Count the characters Discord includes in the 6,000 character limit
 def embed_length(embed):

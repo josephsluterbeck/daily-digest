@@ -1,5 +1,6 @@
 max_items: 7
 max_age_hours: 24
+delete_after_days: 7
 
 # Order here =  order in the Discord message
 # Right side is label on the embed

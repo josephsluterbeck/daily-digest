@@ -42,3 +42,10 @@ def dedupe(items):
         seen_titles.add(title)
         unique.append(item)
     return unique
+
+# Remove items whose link was already posted
+def drop_seen(items, seen_links):
+    return [
+        i for i in items
+        if not i["link"] or normalize_link(i["link"]) not in seen_links
+    ]
