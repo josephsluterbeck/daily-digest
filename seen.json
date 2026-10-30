@@ -1,17 +1,28 @@
 {
-  "last_posted": "2026-10-29",
+  "last_posted": "2026-10-30",
   "links": {
     "https://cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-76ers-on-wednesday": "2026-10-29T11:30:26.722305+00:00",
+    "https://cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams": "2026-10-30T11:30:27.260408+00:00",
+    "https://cyberplace.social/@GossiTheDog/117528831681803563": "2026-10-30T11:30:27.260408+00:00",
+    "https://nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station": "2026-10-30T11:30:27.260408+00:00",
     "https://nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy": "2026-10-29T11:30:26.722305+00:00",
     "https://npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender": "2026-10-29T11:30:26.722305+00:00",
     "https://npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage": "2026-10-29T11:30:26.722305+00:00",
+    "https://npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media": "2026-10-30T11:30:27.260408+00:00",
     "https://polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained": "2026-10-29T11:30:26.722305+00:00",
-    "https://theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank": "2026-10-29T11:30:26.722305+00:00"
+    "https://polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo": "2026-10-30T11:30:27.260408+00:00",
+    "https://theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank": "2026-10-29T11:30:26.722305+00:00",
+    "https://theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates": "2026-10-30T11:30:27.260408+00:00",
+    "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes": "2026-10-30T11:30:27.260408+00:00"
   },
   "messages": [
     {
       "id": "1565327319969833040",
       "posted": "2026-10-29T11:30:26.722305+00:00"
+    },
+    {
+      "id": "1565689505934213209",
+      "posted": "2026-10-30T11:30:27.260408+00:00"
     }
   ],
   "week": [
@@ -91,6 +102,97 @@
       "source": "Polygon",
       "summary": "Twenty years after its release, the *Avatar: The Last Airbender* episode \"The Guru\" remains a vital touchstone for understanding spiritual growth and emotional trauma. By teaching Aang to clear his chakras, Guru Pathik provides a framework for overcoming fear and guilt that continues to influence modern storytelling in the franchise.",
       "title": "20 Years Later, Avatar’s Deepest Episode Has Never Been More Important",
+      "weight": 0.9
+    },
+    {
+      "category": "world",
+      "color": 338274,
+      "image": null,
+      "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+      "picked": "2026-10-30T11:30:27.260408+00:00",
+      "published": "2026-10-30T11:18:15+00:00",
+      "score": 0.0,
+      "source": "The Guardian World",
+      "summary": "Spanish Prime Minister Pedro Sánchez confirmed that at least 69 people died in a major train crash, with victims potentially representing 27 different nationalities. Authorities are investigating a suspected command and control failure to determine the cause and prevent future tragedies.",
+      "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
+      "weight": 0.9
+    },
+    {
+      "category": "politics",
+      "color": 1920649,
+      "image": null,
+      "link": "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes/",
+      "picked": "2026-10-30T11:30:27.260408+00:00",
+      "published": "2026-10-30T10:00:00+00:00",
+      "score": 1.4,
+      "source": "The Hill",
+      "summary": "Salience around AI data centers is growing this election cycle as the fight over the infrastructure's costs and environmental impacts may be threatening Republicans in battleground states like Texas...",
+      "title": "Backlash to AI data centers threatens GOP's grip on Ohio, Texas",
+      "weight": 0.7
+    },
+    {
+      "category": "tech",
+      "color": 16737792,
+      "image": null,
+      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "picked": "2026-10-30T11:30:27.260408+00:00",
+      "published": "2026-10-30T11:05:53+00:00",
+      "score": 0.0,
+      "source": "Hacker News",
+      "summary": "Security researchers discovered potential backdoors in official Claude Code extensions that could allow unauthorized access to user environments. This vulnerability poses a significant risk to developers, as it could lead to the theft of sensitive data or credentials.",
+      "title": "Backdoors in official Claude Code extensions",
+      "weight": 0.9
+    },
+    {
+      "category": "stem",
+      "color": 736657,
+      "image": null,
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+      "picked": "2026-10-30T11:30:27.260408+00:00",
+      "published": "2026-10-29T21:44:23+00:00",
+      "score": 2.4000000000000004,
+      "source": "NASA News",
+      "summary": "International Space Station crews celebrate Halloween by creating costumes from available materials and posing for photos. These traditions highlight the human side of life in orbit while the station continues its vital role as a long-term scientific research platform.",
+      "title": "Halloween Aboard the International Space Station",
+      "weight": 0.8
+    },
+    {
+      "category": "health",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
+      "picked": "2026-10-30T11:30:27.260408+00:00",
+      "published": "2026-10-30T09:00:00+00:00",
+      "score": 0.0,
+      "source": "NPR Health",
+      "summary": "Nearly two-thirds of American youth now use AI chatbots for schoolwork and emotional support. While the technology helps with tasks, researchers are concerned that relying on AI for mental health support may be linked to poorer well-being in teens and tweens.",
+      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
+      "weight": 0.9
+    },
+    {
+      "category": "nba",
+      "color": 741026,
+      "image": null,
+      "link": "https://www.cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams/",
+      "picked": "2026-10-30T11:30:27.260408+00:00",
+      "published": "2026-10-30T00:30:54+00:00",
+      "score": 0.0,
+      "source": "CBS Sports NBA",
+      "summary": "The Memphis Grizzlies and Portland Trail Blazers face off tonight in a matchup of two of the NBA's last three remaining unbeaten teams. This game marks Ja Morant’s first appearance against his former team, the Grizzlies, since being traded to Portland this summer.",
+      "title": "Grizzlies vs. Trail Blazers NBA picks: Portland's Ja Morant could get payback in battle of unbeaten teams",
+      "weight": 0.9
+    },
+    {
+      "category": "gaming",
+      "color": 16711778,
+      "image": null,
+      "link": "https://www.polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo/",
+      "picked": "2026-10-30T11:30:27.260408+00:00",
+      "published": "2026-10-30T11:20:38+00:00",
+      "score": 0.0,
+      "source": "Polygon",
+      "summary": "Artist Lauren Tsai and My Chemical Romance have released a stop-motion short film set to the band's song \"The End.\" Featuring cameos from Hideo Kojima, Billie Eilish, and Phoebe Bridgers, the project bridges Tsai’s \"The Dying World\" universe with the band's iconic *Black Parade* lore.",
+      "title": "My Chemical Romance and Lauren Tsai Team Up for Short Movie Featuring Hideo Kojima",
       "weight": 0.9
     }
   ]
