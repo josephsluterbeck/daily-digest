@@ -1,16 +1,23 @@
 {
-  "last_posted": "2026-10-30",
+  "last_posted": "2026-10-31",
   "links": {
+    "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours": "2026-10-31T11:30:28.561975+00:00",
     "https://cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-76ers-on-wednesday": "2026-10-29T11:30:26.722305+00:00",
     "https://cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams": "2026-10-30T11:30:27.260408+00:00",
+    "https://cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play": "2026-10-31T11:30:28.561975+00:00",
     "https://cyberplace.social/@GossiTheDog/117528831681803563": "2026-10-30T11:30:27.260408+00:00",
     "https://nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station": "2026-10-30T11:30:27.260408+00:00",
     "https://nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy": "2026-10-29T11:30:26.722305+00:00",
+    "https://nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head": "2026-10-31T11:30:28.561975+00:00",
     "https://npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender": "2026-10-29T11:30:26.722305+00:00",
     "https://npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage": "2026-10-29T11:30:26.722305+00:00",
     "https://npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media": "2026-10-30T11:30:27.260408+00:00",
+    "https://npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election": "2026-10-31T11:30:28.561975+00:00",
+    "https://npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it": "2026-10-31T11:30:28.561975+00:00",
     "https://polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained": "2026-10-29T11:30:26.722305+00:00",
+    "https://polygon.com/bully-20-years-later-sequel-retrospective": "2026-10-31T11:30:28.561975+00:00",
     "https://polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo": "2026-10-30T11:30:27.260408+00:00",
+    "https://theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham": "2026-10-31T11:30:28.561975+00:00",
     "https://theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank": "2026-10-29T11:30:26.722305+00:00",
     "https://theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates": "2026-10-30T11:30:27.260408+00:00",
     "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes": "2026-10-30T11:30:27.260408+00:00"
@@ -23,6 +30,10 @@
     {
       "id": "1565689505934213209",
       "posted": "2026-10-30T11:30:27.260408+00:00"
+    },
+    {
+      "id": "1566051781027303451",
+      "posted": "2026-10-31T11:30:28.561975+00:00"
     }
   ],
   "week": [
@@ -193,6 +204,97 @@
       "source": "Polygon",
       "summary": "Artist Lauren Tsai and My Chemical Romance have released a stop-motion short film set to the band's song \"The End.\" Featuring cameos from Hideo Kojima, Billie Eilish, and Phoebe Bridgers, the project bridges Tsai’s \"The Dying World\" universe with the band's iconic *Black Parade* lore.",
       "title": "My Chemical Romance and Lauren Tsai Team Up for Short Movie Featuring Hideo Kojima",
+      "weight": 0.9
+    },
+    {
+      "category": "world",
+      "color": 338274,
+      "image": null,
+      "link": "https://www.theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham",
+      "picked": "2026-10-31T11:30:28.561975+00:00",
+      "published": "2026-10-31T11:00:41+00:00",
+      "score": 0.0,
+      "source": "The Guardian World",
+      "summary": "Network Rail is conducting £152 million in essential engineering works across major UK rail lines this Christmas. These 10 days of upgrades will cause significant travel disruptions at stations including London Paddington and Birmingham New Street. The work aims to improve long-term reliability and capacity during the year's quietest travel period.",
+      "title": "Railway engineering work over Christmas will cause 10 days of disruption",
+      "weight": 0.9
+    },
+    {
+      "category": "politics",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
+      "picked": "2026-10-31T11:30:28.561975+00:00",
+      "published": "2026-10-31T09:00:00+00:00",
+      "score": 0.0,
+      "source": "NPR Politics",
+      "summary": "NPR political correspondents addressed listener concerns about the reliability of election polls ahead of the 2026 midterms. They explained that while polls are useful tools for tracking trends, they should be viewed as fuzzy ranges rather than precise predictions due to margins of error and varying poll quality.",
+      "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+      "weight": 1.0
+    },
+    {
+      "category": "tech",
+      "color": 16731648,
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "picked": "2026-10-31T11:30:28.561975+00:00",
+      "published": "2026-10-30T21:09:54+00:00",
+      "score": 0.0,
+      "source": "Ars Technica",
+      "summary": "An official Anthropic VS Code extension on the Cursor platform was compromised for 12 hours, potentially exposing up to 5,000 developers to malicious SSH backdoors. This supply-chain attack allowed unauthorized access to local files and source code, though neither company has publicly explained how the account was breached.",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "weight": 1.0
+    },
+    {
+      "category": "stem",
+      "color": 736657,
+      "image": null,
+      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "picked": "2026-10-31T11:30:28.561975+00:00",
+      "published": "2026-10-30T15:56:26+00:00",
+      "score": 4.800000000000001,
+      "source": "NASA News",
+      "summary": "NASA’s James Webb Space Telescope has captured a detailed mid-infrared image of the Cat’s Head Nebula. Intense radiation and stellar winds from nearby massive stars are sculpting the nebula's unique shape by eroding surrounding gas and dust.",
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "weight": 0.8
+    },
+    {
+      "category": "health",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+      "picked": "2026-10-31T11:30:28.561975+00:00",
+      "published": "2026-10-31T09:01:00+00:00",
+      "score": 0.0,
+      "source": "NPR Health",
+      "summary": "Seasonal affective disorder (SAD) is a recurring form of depression triggered by the changing seasons and shorter daylight hours. Recognizing symptoms like lethargy and overeating is crucial for seeking treatment, which often includes light therapy to help manage the condition.",
+      "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
+      "weight": 0.9
+    },
+    {
+      "category": "nba",
+      "color": 741026,
+      "image": null,
+      "link": "https://www.cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play/",
+      "picked": "2026-10-31T11:30:28.561975+00:00",
+      "published": "2026-10-31T01:00:59+00:00",
+      "score": 0.0,
+      "source": "CBS Sports NBA",
+      "summary": "The Los Angeles Lakers face the Golden State Warriors tonight in the opening of NBA Cup group play. The matchup highlights the rapid rise of Warriors rookie Yaxel Lendeborg, who has quickly become a top contender for Rookie of the Year.",
+      "title": "Lakers vs. Warriors picks, odds: Golden State could pull off upset to begin NBA Cup play",
+      "weight": 0.9
+    },
+    {
+      "category": "gaming",
+      "color": 16711778,
+      "image": null,
+      "link": "https://www.polygon.com/bully-20-years-later-sequel-retrospective/",
+      "picked": "2026-10-31T11:30:28.561975+00:00",
+      "published": "2026-10-31T11:00:19+00:00",
+      "score": 0.0,
+      "source": "Polygon",
+      "summary": "Rockstar Games’ 2006 title *Bully* offered a unique, critically acclaimed open-world experience by applying the *Grand Theft Auto* formula to a school setting. Despite its lasting popularity and distinct gameplay, the game remains without a sequel or remake two decades later.",
+      "title": "20 Years Later, Rockstar’s Best Game Still Doesn’t Have the Sequel It Deserved",
       "weight": 0.9
     }
   ]
