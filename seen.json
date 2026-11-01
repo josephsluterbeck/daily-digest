@@ -1,10 +1,12 @@
 {
-  "last_posted": "2026-10-31",
+  "last_posted": "2026-11-01",
   "links": {
     "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours": "2026-10-31T11:30:28.561975+00:00",
+    "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf": "2026-11-01T12:30:26.721708+00:00",
     "https://cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-76ers-on-wednesday": "2026-10-29T11:30:26.722305+00:00",
     "https://cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams": "2026-10-30T11:30:27.260408+00:00",
     "https://cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play": "2026-10-31T11:30:28.561975+00:00",
+    "https://cbssports.com/nba/news/jeanie-buss-lakers-sale-family-dispute": "2026-11-01T12:30:26.721708+00:00",
     "https://cyberplace.social/@GossiTheDog/117528831681803563": "2026-10-30T11:30:27.260408+00:00",
     "https://nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station": "2026-10-30T11:30:27.260408+00:00",
     "https://nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy": "2026-10-29T11:30:26.722305+00:00",
@@ -14,9 +16,14 @@
     "https://npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media": "2026-10-30T11:30:27.260408+00:00",
     "https://npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election": "2026-10-31T11:30:28.561975+00:00",
     "https://npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it": "2026-10-31T11:30:28.561975+00:00",
+    "https://npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi": "2026-11-01T12:30:26.721708+00:00",
+    "https://npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance": "2026-11-01T12:30:26.721708+00:00",
     "https://polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained": "2026-10-29T11:30:26.722305+00:00",
+    "https://polygon.com/best-dark-comedy-show-comic-book-adaptation": "2026-11-01T12:30:26.721708+00:00",
     "https://polygon.com/bully-20-years-later-sequel-retrospective": "2026-10-31T11:30:28.561975+00:00",
     "https://polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo": "2026-10-30T11:30:27.260408+00:00",
+    "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon": "2026-11-01T12:30:26.721708+00:00",
+    "https://theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-": "2026-11-01T12:30:26.721708+00:00",
     "https://theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham": "2026-10-31T11:30:28.561975+00:00",
     "https://theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank": "2026-10-29T11:30:26.722305+00:00",
     "https://theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates": "2026-10-30T11:30:27.260408+00:00",
@@ -34,6 +41,14 @@
     {
       "id": "1566051781027303451",
       "posted": "2026-10-31T11:30:28.561975+00:00"
+    },
+    {
+      "id": "1566429308866789385",
+      "posted": "2026-11-01T12:30:26.721708+00:00"
+    },
+    {
+      "id": "1566429310623948949",
+      "posted": "2026-11-01T12:30:26.721708+00:00"
     }
   ],
   "week": [
@@ -295,6 +310,97 @@
       "source": "Polygon",
       "summary": "Rockstar Games’ 2006 title *Bully* offered a unique, critically acclaimed open-world experience by applying the *Grand Theft Auto* formula to a school setting. Despite its lasting popularity and distinct gameplay, the game remains without a sequel or remake two decades later.",
       "title": "20 Years Later, Rockstar’s Best Game Still Doesn’t Have the Sequel It Deserved",
+      "weight": 0.9
+    },
+    {
+      "category": "world",
+      "color": 338274,
+      "image": null,
+      "link": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
+      "picked": "2026-11-01T12:30:26.721708+00:00",
+      "published": "2026-11-01T12:12:07+00:00",
+      "score": 0.0,
+      "source": "The Guardian World",
+      "summary": "Chancellor John Healey has introduced a new \"preventative departmental expenditure limit\" (PDEL) to ringfence funding for long-term preventive policies. This change aims to shift government spending away from crisis management by prioritizing upfront investments that reduce future costs across multiple public services.",
+      "title": "New public spending category PDEL is a welcome and could have big impact | Heather Stewart",
+      "weight": 0.9
+    },
+    {
+      "category": "politics",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+      "picked": "2026-11-01T12:30:26.721708+00:00",
+      "published": "2026-11-01T12:00:00+00:00",
+      "score": 0.0,
+      "source": "NPR Politics",
+      "summary": "ACA open enrollment for 2027 coverage begins November 1 with new identity verification requirements and premium increases. These changes aim to combat fraud but may slow the sign-up process and discourage some consumers from obtaining insurance.",
+      "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+      "weight": 1.0
+    },
+    {
+      "category": "tech",
+      "color": 16737792,
+      "image": null,
+      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "picked": "2026-11-01T12:30:26.721708+00:00",
+      "published": "2026-10-31T19:16:30+00:00",
+      "score": 0.9,
+      "source": "Hacker News",
+      "summary": "A critical use-after-free vulnerability (CVE-2026-98432) in the Linux kernel allows unauthenticated remote attackers to execute code as root. Because the flaw exists in the TCP handshake process, it affects most Linux servers, and many major distributions have yet to release patches.",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "weight": 0.9
+    },
+    {
+      "category": "stem",
+      "color": 736657,
+      "image": null,
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+      "picked": "2026-11-01T12:30:26.721708+00:00",
+      "published": "2026-11-01T04:05:00+00:00",
+      "score": 0.0,
+      "source": "NASA News",
+      "summary": "An astrophotographer documented the Moon's varying colors over a decade across Italy. These shifts in appearance are caused by atmospheric scattering, dust particles, and lunar eclipses. This collection illustrates how Earth's atmosphere alters our perception of the Moon's true gray color.",
+      "title": "APOD: 2026 November 1 – Colors of the Moon",
+      "weight": 0.8
+    },
+    {
+      "category": "health",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
+      "picked": "2026-11-01T12:30:26.721708+00:00",
+      "published": "2026-11-01T09:00:00+00:00",
+      "score": 0.0,
+      "source": "NPR Health",
+      "summary": "The O’Neill family raised millions through a viral fundraising campaign to support researcher Haiyan Fu’s work on a gene therapy for Sanfilippo syndrome. This critical funding enabled clinical trials that led to the FDA’s recent approval of the life-saving treatment, Fayuvi.",
+      "title": "How one family gave a critical boost to gene therapy research",
+      "weight": 0.9
+    },
+    {
+      "category": "nba",
+      "color": 741026,
+      "image": null,
+      "link": "https://www.cbssports.com/nba/news/jeanie-buss-lakers-sale-family-dispute/",
+      "picked": "2026-11-01T12:30:26.721708+00:00",
+      "published": "2026-10-31T18:55:21+00:00",
+      "score": 0.0,
+      "source": "CBS Sports NBA",
+      "summary": "Lakers governor Jeanie Buss has filed a court motion accusing her siblings of conspiring to sell the family’s stake in the team against her wishes. This legal battle is critical because a sale would strip Jeanie of her control over the franchise and end the Buss family's long-standing governance of the Lakers.",
+      "title": "Jeanie Buss accuses siblings of conspiring against her as dispute over Lakers stake continues",
+      "weight": 0.9
+    },
+    {
+      "category": "gaming",
+      "color": 16711778,
+      "image": null,
+      "link": "https://www.polygon.com/best-dark-comedy-show-comic-book-adaptation/",
+      "picked": "2026-11-01T12:30:26.721708+00:00",
+      "published": "2026-11-01T12:00:17+00:00",
+      "score": 0.0,
+      "source": "Polygon",
+      "summary": "The acclaimed miniseries *The End of the F***ing World* is leaving Netflix on November 5. Viewers have until that date to watch the highly-rated dark comedy, which follows two troubled teenagers on a transformative road trip.",
+      "title": "Netflix's Near-Perfect Thriller With 94% Rotten Tomatoes Score Is Getting Cut From Streaming",
       "weight": 0.9
     }
   ]
