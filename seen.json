@@ -1,8 +1,9 @@
 {
-  "last_posted": "2026-11-01",
+  "last_posted": "2026-11-02",
   "links": {
     "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours": "2026-10-31T11:30:28.561975+00:00",
     "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf": "2026-11-01T12:30:26.721708+00:00",
+    "https://cbssports.com/betting/news/2026-nba-betting-promos-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-1": "2026-11-02T12:30:26.858379+00:00",
     "https://cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-76ers-on-wednesday": "2026-10-29T11:30:26.722305+00:00",
     "https://cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams": "2026-10-30T11:30:27.260408+00:00",
     "https://cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play": "2026-10-31T11:30:28.561975+00:00",
@@ -18,14 +19,20 @@
     "https://npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it": "2026-10-31T11:30:28.561975+00:00",
     "https://npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi": "2026-11-01T12:30:26.721708+00:00",
     "https://npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance": "2026-11-01T12:30:26.721708+00:00",
+    "https://npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church": "2026-11-02T12:30:26.858379+00:00",
+    "https://npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health": "2026-11-02T12:30:26.858379+00:00",
     "https://polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained": "2026-10-29T11:30:26.722305+00:00",
     "https://polygon.com/best-dark-comedy-show-comic-book-adaptation": "2026-11-01T12:30:26.721708+00:00",
     "https://polygon.com/bully-20-years-later-sequel-retrospective": "2026-10-31T11:30:28.561975+00:00",
+    "https://polygon.com/lord-of-the-ring-gandalf-greatest-quote": "2026-11-02T12:30:26.858379+00:00",
     "https://polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo": "2026-10-30T11:30:27.260408+00:00",
     "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon": "2026-11-01T12:30:26.721708+00:00",
+    "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars": "2026-11-02T12:30:26.858379+00:00",
+    "https://syscall.sh": "2026-11-02T12:30:26.858379+00:00",
     "https://theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-": "2026-11-01T12:30:26.721708+00:00",
     "https://theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham": "2026-10-31T11:30:28.561975+00:00",
     "https://theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank": "2026-10-29T11:30:26.722305+00:00",
+    "https://theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates": "2026-11-02T12:30:26.858379+00:00",
     "https://theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates": "2026-10-30T11:30:27.260408+00:00",
     "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes": "2026-10-30T11:30:27.260408+00:00"
   },
@@ -49,6 +56,10 @@
     {
       "id": "1566429310623948949",
       "posted": "2026-11-01T12:30:26.721708+00:00"
+    },
+    {
+      "id": "1566791729426862087",
+      "posted": "2026-11-02T12:30:26.858379+00:00"
     }
   ],
   "week": [
@@ -401,6 +412,97 @@
       "source": "Polygon",
       "summary": "The acclaimed miniseries *The End of the F***ing World* is leaving Netflix on November 5. Viewers have until that date to watch the highly-rated dark comedy, which follows two troubled teenagers on a transformative road trip.",
       "title": "Netflix's Near-Perfect Thriller With 94% Rotten Tomatoes Score Is Getting Cut From Streaming",
+      "weight": 0.9
+    },
+    {
+      "category": "world",
+      "color": 338274,
+      "image": null,
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+      "picked": "2026-11-02T12:30:26.858379+00:00",
+      "published": "2026-11-02T12:23:24+00:00",
+      "score": 0.0,
+      "source": "The Guardian World",
+      "summary": "Democratic Congresswoman Haley Stevens is facing backlash from party leaders for endorsing Republican Mike Rogers in the Michigan Senate race. This move is being condemned as a betrayal that threatens Democratic unity in a critical contest.",
+      "title": "Democrats condemn Haley Stevens’ ‘betrayal’ following endorsement of Republican Mike Rogers – US politics live",
+      "weight": 0.9
+    },
+    {
+      "category": "politics",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "picked": "2026-11-02T12:30:26.858379+00:00",
+      "published": "2026-11-02T12:19:54+00:00",
+      "score": 0.0,
+      "source": "NPR Politics",
+      "summary": "Democratic Representative Haley Stevens endorsed Republican Mike Rogers for the Michigan Senate, highlighting deep divisions within the Democratic Party. Meanwhile, Gulf states are bracing for potential U.S. military action against Iran, fearing regional instability and energy supply disruptions.",
+      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+      "weight": 1.0
+    },
+    {
+      "category": "tech",
+      "color": 16737792,
+      "image": null,
+      "link": "https://syscall.sh/",
+      "picked": "2026-11-02T12:30:26.858379+00:00",
+      "published": "2026-11-02T09:29:16+00:00",
+      "score": 2.7,
+      "source": "Hacker News",
+      "summary": "A developer has updated their Linux system call website and API with comprehensive historical data for various architectures. The platform provides detailed JSON records of syscall changes across kernel versions, serving as a valuable resource for developers needing accurate kernel interface information.",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "weight": 0.9
+    },
+    {
+      "category": "stem",
+      "color": 736657,
+      "image": null,
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+      "picked": "2026-11-02T12:30:26.858379+00:00",
+      "published": "2026-11-02T05:05:00+00:00",
+      "score": 0.0,
+      "source": "NASA News",
+      "summary": "The ESA’s Mars Express spacecraft has captured images of the Arsia Mons Elongated Cloud, a massive water-ice formation that stretches 1,500 kilometers across Mars. Studying this unique seasonal phenomenon helps scientists better understand cloud formation processes on both Mars and Earth.",
+      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+      "weight": 0.8
+    },
+    {
+      "category": "health",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
+      "picked": "2026-11-02T12:30:26.858379+00:00",
+      "published": "2026-11-02T10:00:00+00:00",
+      "score": 0.0,
+      "source": "NPR Health",
+      "summary": "Dentists are seeing increased patient interest in fluoride-free toothpaste, particularly products containing hydroxyapatite. While some consumers are skeptical of fluoride, experts emphasize that it remains a proven, safe, and effective mineral for preventing cavities and protecting overall health.",
+      "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
+      "weight": 0.9
+    },
+    {
+      "category": "nba",
+      "color": 741026,
+      "image": null,
+      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-1/",
+      "picked": "2026-11-02T12:30:26.858379+00:00",
+      "published": "2026-11-01T13:23:23+00:00",
+      "score": 0.0,
+      "source": "CBS Sports NBA",
+      "summary": "Major sportsbooks are offering over $3,000 in sign-up bonuses for new users betting on the 2026 NBA season. These promotions provide incentives like bonus bets and streaming subscriptions to encourage wagering on tonight's games.",
+      "title": "2026 NBA betting promos: Claim over $3,000 in bonuses from top online betting apps, sportsbooks for November 1",
+      "weight": 0.9
+    },
+    {
+      "category": "gaming",
+      "color": 16711778,
+      "image": null,
+      "link": "https://www.polygon.com/lord-of-the-ring-gandalf-greatest-quote/",
+      "picked": "2026-11-02T12:30:26.858379+00:00",
+      "published": "2026-11-02T12:00:18+00:00",
+      "score": 0.0,
+      "source": "Polygon",
+      "summary": "In *The Return of the King*, Gandalf comforts Pippin by describing death as a natural path toward a beautiful new journey. This moment is considered the trilogy's wisest quote because it reframes sacrifice and mortality as a hopeful transition rather than a final end.",
+      "title": "23 Years Later, Gandalf’s Greatest Lord of the Rings Line Is Still the Wisest Quote in Fantasy History",
       "weight": 0.9
     }
   ]
