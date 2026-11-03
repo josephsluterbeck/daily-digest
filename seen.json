@@ -1,5 +1,5 @@
 {
-  "last_posted": "2026-11-02",
+  "last_posted": "2026-11-03",
   "links": {
     "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours": "2026-10-31T11:30:28.561975+00:00",
     "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf": "2026-11-01T12:30:26.721708+00:00",
@@ -8,8 +8,10 @@
     "https://cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams": "2026-10-30T11:30:27.260408+00:00",
     "https://cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play": "2026-10-31T11:30:28.561975+00:00",
     "https://cbssports.com/nba/news/jeanie-buss-lakers-sale-family-dispute": "2026-11-01T12:30:26.721708+00:00",
+    "https://cbssports.com/nba/news/victor-wembanyama-60-minutes-barefoot-gregg-popovich-gambling-villain": "2026-11-03T12:30:25.341419+00:00",
     "https://cyberplace.social/@GossiTheDog/117528831681803563": "2026-10-30T11:30:27.260408+00:00",
     "https://nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station": "2026-10-30T11:30:27.260408+00:00",
+    "https://nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now": "2026-11-03T12:30:25.341419+00:00",
     "https://nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy": "2026-10-29T11:30:26.722305+00:00",
     "https://nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head": "2026-10-31T11:30:28.561975+00:00",
     "https://npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender": "2026-10-29T11:30:26.722305+00:00",
@@ -21,11 +23,15 @@
     "https://npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance": "2026-11-01T12:30:26.721708+00:00",
     "https://npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church": "2026-11-02T12:30:26.858379+00:00",
     "https://npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health": "2026-11-02T12:30:26.858379+00:00",
+    "https://npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin": "2026-11-03T12:30:25.341419+00:00",
+    "https://npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy": "2026-11-03T12:30:25.341419+00:00",
     "https://polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained": "2026-10-29T11:30:26.722305+00:00",
     "https://polygon.com/best-dark-comedy-show-comic-book-adaptation": "2026-11-01T12:30:26.721708+00:00",
     "https://polygon.com/bully-20-years-later-sequel-retrospective": "2026-10-31T11:30:28.561975+00:00",
     "https://polygon.com/lord-of-the-ring-gandalf-greatest-quote": "2026-11-02T12:30:26.858379+00:00",
     "https://polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo": "2026-10-30T11:30:27.260408+00:00",
+    "https://polygon.com/zach-creggers-resident-evil-sci-fi-horror-thriller-vod-digital": "2026-11-03T12:30:25.341419+00:00",
+    "https://rikiyat.github.io/blog/weight-space-programming": "2026-11-03T12:30:25.341419+00:00",
     "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon": "2026-11-01T12:30:26.721708+00:00",
     "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars": "2026-11-02T12:30:26.858379+00:00",
     "https://syscall.sh": "2026-11-02T12:30:26.858379+00:00",
@@ -33,6 +39,7 @@
     "https://theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham": "2026-10-31T11:30:28.561975+00:00",
     "https://theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank": "2026-10-29T11:30:26.722305+00:00",
     "https://theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates": "2026-11-02T12:30:26.858379+00:00",
+    "https://theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news": "2026-11-03T12:30:25.341419+00:00",
     "https://theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates": "2026-10-30T11:30:27.260408+00:00",
     "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes": "2026-10-30T11:30:27.260408+00:00"
   },
@@ -60,6 +67,10 @@
     {
       "id": "1566791729426862087",
       "posted": "2026-11-02T12:30:26.858379+00:00"
+    },
+    {
+      "id": "1567154341947646002",
+      "posted": "2026-11-03T12:30:25.341419+00:00"
     }
   ],
   "week": [
@@ -503,6 +514,97 @@
       "source": "Polygon",
       "summary": "In *The Return of the King*, Gandalf comforts Pippin by describing death as a natural path toward a beautiful new journey. This moment is considered the trilogy's wisest quote because it reframes sacrifice and mortality as a hopeful transition rather than a final end.",
       "title": "23 Years Later, Gandalf’s Greatest Lord of the Rings Line Is Still the Wisest Quote in Fantasy History",
+      "weight": 0.9
+    },
+    {
+      "category": "world",
+      "color": 338274,
+      "image": null,
+      "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+      "picked": "2026-11-03T12:30:25.341419+00:00",
+      "published": "2026-11-03T12:19:54+00:00",
+      "score": 0.0,
+      "source": "The Guardian World",
+      "summary": "Flights from London, Copenhagen, Manchester and Israel affected by bomb threats Jakub Krupa If you are joining us now, we are following reports about at least four planes affected by bomb threats across Europe this morning: two in Poland (from the UK 10:33, 10:58, 12:00 and Denmark 11:33, 12:59), one in Bulgaria (from Israel 12:50), and one in Spain (from the UK 12:44).",
+      "title": "Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live",
+      "weight": 0.9
+    },
+    {
+      "category": "politics",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
+      "picked": "2026-11-03T12:30:25.341419+00:00",
+      "published": "2026-11-03T11:43:49+00:00",
+      "score": 0.0,
+      "source": "NPR Politics",
+      "summary": "Control of Congress is at stake today. And, judge to consider motion in Clancy case Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day. Today's top stories Election Day has arrived. This campaign has the biggest price tag in U.S. history.",
+      "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
+      "weight": 1.0
+    },
+    {
+      "category": "tech",
+      "color": 16737792,
+      "image": null,
+      "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "picked": "2026-11-03T12:30:25.341419+00:00",
+      "published": "2026-11-02T18:21:28+00:00",
+      "score": 0.0,
+      "source": "Hacker News",
+      "summary": "We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms. This might be a big deal for both optimization and interpretability. Just by looking at the raw weights, GPT-6 Astra can tell what a network was trained to do.",
+      "title": "Astra can read and write weights to improve Qwen",
+      "weight": 0.9
+    },
+    {
+      "category": "stem",
+      "color": 736657,
+      "image": null,
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "picked": "2026-11-03T12:30:25.341419+00:00",
+      "published": "2026-11-02T21:35:59+00:00",
+      "score": 4.800000000000001,
+      "source": "NASA News",
+      "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis.",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "weight": 0.8
+    },
+    {
+      "category": "health",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin",
+      "picked": "2026-11-03T12:30:25.341419+00:00",
+      "published": "2026-11-02T21:31:10+00:00",
+      "score": 0.0,
+      "source": "NPR Health",
+      "summary": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others? Donna Gustafson is living a cancer patient's fantasy. At 72, the retired accountant hikes, travels, lifts weights, and exchanges adoring glances with Ed, the husband she married 50 years ago.",
+      "title": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others?",
+      "weight": 0.9
+    },
+    {
+      "category": "nba",
+      "color": 741026,
+      "image": null,
+      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-60-minutes-barefoot-gregg-popovich-gambling-villain/",
+      "picked": "2026-11-03T12:30:25.341419+00:00",
+      "published": "2026-11-02T20:33:20+00:00",
+      "score": 0.0,
+      "source": "CBS Sports NBA",
+      "summary": "It is increasingly rare in the NBA (and professional sports as a whole) for a star athlete to sit down for an extended, on-the-record interview. While athletes have found other means of communicating with fans, such interviews can offer rare, less-filtered glimpses into what the player is going through both on and off the court.",
+      "title": "Five things we learned from Victor Wembanyama's '60 Minutes' interview, including why he loves going barefoot",
+      "weight": 0.9
+    },
+    {
+      "category": "gaming",
+      "color": 16711778,
+      "image": null,
+      "link": "https://www.polygon.com/zach-creggers-resident-evil-sci-fi-horror-thriller-vod-digital/",
+      "picked": "2026-11-03T12:30:25.341419+00:00",
+      "published": "2026-11-03T12:23:18+00:00",
+      "score": 0.0,
+      "source": "Polygon",
+      "summary": "Director Zach Cregger, known for Barbarian and Weapons, proved he was ready to tackle the behemoth task of taking on a franchise when he took on the latest adaptation of Capcom’s Resident Evil video game series. In just the first week alone, Cregger’s Resident Evil raked in $60 million at the domestic box office.",
+      "title": "Zach Cregger's Resident Evil Is Officially Coming Home",
       "weight": 0.9
     }
   ]
