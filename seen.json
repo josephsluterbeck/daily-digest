@@ -1,5 +1,5 @@
 {
-  "last_posted": "2026-11-03",
+  "last_posted": "2026-11-04",
   "links": {
     "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours": "2026-10-31T11:30:28.561975+00:00",
     "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf": "2026-11-01T12:30:26.721708+00:00",
@@ -8,12 +8,15 @@
     "https://cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams": "2026-10-30T11:30:27.260408+00:00",
     "https://cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play": "2026-10-31T11:30:28.561975+00:00",
     "https://cbssports.com/nba/news/jeanie-buss-lakers-sale-family-dispute": "2026-11-01T12:30:26.721708+00:00",
+    "https://cbssports.com/nba/news/ty-jerome-linsanity-mvp-level-scoring-surprise": "2026-11-04T12:30:28.833464+00:00",
     "https://cbssports.com/nba/news/victor-wembanyama-60-minutes-barefoot-gregg-popovich-gambling-villain": "2026-11-03T12:30:25.341419+00:00",
     "https://cyberplace.social/@GossiTheDog/117528831681803563": "2026-10-30T11:30:27.260408+00:00",
+    "https://mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop": "2026-11-04T12:30:28.833464+00:00",
     "https://nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station": "2026-10-30T11:30:27.260408+00:00",
     "https://nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now": "2026-11-03T12:30:25.341419+00:00",
     "https://nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy": "2026-10-29T11:30:26.722305+00:00",
     "https://nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head": "2026-10-31T11:30:28.561975+00:00",
+    "https://nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day": "2026-11-04T12:30:28.833464+00:00",
     "https://npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender": "2026-10-29T11:30:26.722305+00:00",
     "https://npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage": "2026-10-29T11:30:26.722305+00:00",
     "https://npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media": "2026-10-30T11:30:27.260408+00:00",
@@ -27,6 +30,7 @@
     "https://npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy": "2026-11-03T12:30:25.341419+00:00",
     "https://polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained": "2026-10-29T11:30:26.722305+00:00",
     "https://polygon.com/best-dark-comedy-show-comic-book-adaptation": "2026-11-01T12:30:26.721708+00:00",
+    "https://polygon.com/bong-joon-ho-the-host-4k-interview": "2026-11-04T12:30:28.833464+00:00",
     "https://polygon.com/bully-20-years-later-sequel-retrospective": "2026-10-31T11:30:28.561975+00:00",
     "https://polygon.com/lord-of-the-ring-gandalf-greatest-quote": "2026-11-02T12:30:26.858379+00:00",
     "https://polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo": "2026-10-30T11:30:27.260408+00:00",
@@ -39,8 +43,10 @@
     "https://theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham": "2026-10-31T11:30:28.561975+00:00",
     "https://theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank": "2026-10-29T11:30:26.722305+00:00",
     "https://theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates": "2026-11-02T12:30:26.858379+00:00",
+    "https://theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates": "2026-11-04T12:30:28.833464+00:00",
     "https://theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news": "2026-11-03T12:30:25.341419+00:00",
     "https://theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates": "2026-10-30T11:30:27.260408+00:00",
+    "https://thehill.com/homenews/campaign/6175333-kaptur-wins-ohio-house-seat": "2026-11-04T12:30:28.833464+00:00",
     "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes": "2026-10-30T11:30:27.260408+00:00"
   },
   "messages": [
@@ -71,6 +77,10 @@
     {
       "id": "1567154341947646002",
       "posted": "2026-11-03T12:30:25.341419+00:00"
+    },
+    {
+      "id": "1567516735135813709",
+      "posted": "2026-11-04T12:30:28.833464+00:00"
     }
   ],
   "week": [
@@ -605,6 +615,84 @@
       "source": "Polygon",
       "summary": "Director Zach Cregger, known for Barbarian and Weapons, proved he was ready to tackle the behemoth task of taking on a franchise when he took on the latest adaptation of Capcom’s Resident Evil video game series. In just the first week alone, Cregger’s Resident Evil raked in $60 million at the domestic box office.",
       "title": "Zach Cregger's Resident Evil Is Officially Coming Home",
+      "weight": 0.9
+    },
+    {
+      "category": "world",
+      "color": 338274,
+      "image": null,
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+      "picked": "2026-11-04T12:30:28.833464+00:00",
+      "published": "2026-11-04T11:47:56+00:00",
+      "score": 0.0,
+      "source": "The Guardian World",
+      "summary": "Democrats won control of both the House and Senate in the 2026 midterm elections, securing major victories in several Republican strongholds. This shift represents a significant political setback for Donald Trump and signals a major change in the balance of power in Congress.",
+      "title": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
+      "weight": 0.9
+    },
+    {
+      "category": "politics",
+      "color": 1920649,
+      "image": null,
+      "link": "https://thehill.com/homenews/campaign/6175333-kaptur-wins-ohio-house-seat/",
+      "picked": "2026-11-04T12:30:28.833464+00:00",
+      "published": "2026-11-04T07:44:47+00:00",
+      "score": 2.0999999999999996,
+      "source": "The Hill",
+      "summary": "Rep. Marcy Kaptur (D-Ohio) is projected to win a 23rd term representing Ohio in the House, emerging from a tough rematch with Republican Derek Merrin, according to Decision Desk HQ (DDHQ). Notching a...",
+      "title": "Kaptur beats Merrin in Ohio House rematch",
+      "weight": 0.7
+    },
+    {
+      "category": "tech",
+      "color": 16737792,
+      "image": null,
+      "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "picked": "2026-11-04T12:30:28.833464+00:00",
+      "published": "2026-11-04T08:46:29+00:00",
+      "score": 3.6,
+      "source": "Hacker News",
+      "summary": "Linux on the Nvidia RTX Spark Laptop: What Actually Works A hands-on look at dual-booting Linux on the Nvidia RTX Spark laptop, the GPU clock throttling bug found, and why WSL still wins. Can you run Linux on the Nvidia RTX Spark laptop? Yes, but it comes with a serious catch.",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "weight": 0.9
+    },
+    {
+      "category": "stem",
+      "color": 736657,
+      "image": null,
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "picked": "2026-11-04T12:30:28.833464+00:00",
+      "published": "2026-11-03T15:15:50+00:00",
+      "score": 3.2,
+      "source": "NASA News",
+      "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation.",
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "weight": 0.8
+    },
+    {
+      "category": "nba",
+      "color": 741026,
+      "image": null,
+      "link": "https://www.cbssports.com/nba/news/ty-jerome-linsanity-mvp-level-scoring-surprise/",
+      "picked": "2026-11-04T12:30:28.833464+00:00",
+      "published": "2026-11-03T17:46:53+00:00",
+      "score": 0.0,
+      "source": "CBS Sports NBA",
+      "summary": "The Memphis Grizzlies finally lost a game on Monday night, their first of the year. But, of course, Ty Jerome was still the story. The Grizzlies point guard, who has gone full Linsanity Mode to start the season, rattled off 40 points on 64% shooting against the Pelicans. He made five of his six 3-pointers. He made seven of his eight free throws.",
+      "title": "Ty Jerome is on a Linsanity-esque run, but here's why his MVP-level scoring isn't that big of a surprise",
+      "weight": 0.9
+    },
+    {
+      "category": "gaming",
+      "color": 16711778,
+      "image": null,
+      "link": "https://www.polygon.com/bong-joon-ho-the-host-4k-interview/",
+      "picked": "2026-11-04T12:30:28.833464+00:00",
+      "published": "2026-11-04T12:00:18+00:00",
+      "score": 0.0,
+      "source": "Polygon",
+      "summary": "Two decades ago, in a 2006 interview with a Korean newspaper, Bong Joon-ho made a surprising statement about his then-new horror movie, The Host. The director, who would go on to make Parasite, Snowpiercer, and Mickey 17, revealed that the mutated monster from The Host was based on an actual creature he'd spotted in Seoul’s Han River, 19 years earlier.",
+      "title": "20 Years Later, Bong Joon-Ho Looks Back at His Sci-Fi Thriller Masterpiece: 'It Was a Very Tough Process'",
       "weight": 0.9
     }
   ]
