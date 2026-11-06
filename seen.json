@@ -1,10 +1,11 @@
 {
-  "last_posted": "2026-11-05",
+  "last_posted": "2026-11-06",
   "links": {
     "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours": "2026-10-31T11:30:28.561975+00:00",
     "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones": "2026-11-05T12:30:27.872227+00:00",
     "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf": "2026-11-01T12:30:26.721708+00:00",
     "https://cbssports.com/betting/news/2026-nba-betting-promos-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-1": "2026-11-02T12:30:26.858379+00:00",
+    "https://cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-5": "2026-11-06T12:30:23.528691+00:00",
     "https://cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-76ers-on-wednesday": "2026-10-29T11:30:26.722305+00:00",
     "https://cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams": "2026-10-30T11:30:27.260408+00:00",
     "https://cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play": "2026-10-31T11:30:28.561975+00:00",
@@ -19,6 +20,7 @@
     "https://nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy": "2026-10-29T11:30:26.722305+00:00",
     "https://nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head": "2026-10-31T11:30:28.561975+00:00",
     "https://nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day": "2026-11-04T12:30:28.833464+00:00",
+    "https://nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2": "2026-11-06T12:30:23.528691+00:00",
     "https://nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications": "2026-11-05T12:30:27.872227+00:00",
     "https://npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender": "2026-10-29T11:30:26.722305+00:00",
     "https://npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage": "2026-10-29T11:30:26.722305+00:00",
@@ -33,12 +35,15 @@
     "https://npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy": "2026-11-03T12:30:25.341419+00:00",
     "https://npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction": "2026-11-05T12:30:27.872227+00:00",
     "https://npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap": "2026-11-05T12:30:27.872227+00:00",
+    "https://npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon": "2026-11-06T12:30:23.528691+00:00",
+    "https://npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook": "2026-11-06T12:30:23.528691+00:00",
     "https://polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained": "2026-10-29T11:30:26.722305+00:00",
     "https://polygon.com/best-dark-comedy-show-comic-book-adaptation": "2026-11-01T12:30:26.721708+00:00",
     "https://polygon.com/bong-joon-ho-the-host-4k-interview": "2026-11-04T12:30:28.833464+00:00",
     "https://polygon.com/bully-20-years-later-sequel-retrospective": "2026-10-31T11:30:28.561975+00:00",
     "https://polygon.com/lord-of-the-ring-gandalf-greatest-quote": "2026-11-02T12:30:26.858379+00:00",
     "https://polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo": "2026-10-30T11:30:27.260408+00:00",
+    "https://polygon.com/sony-playstation-5-digital-blackout-failure-financial-records-confirm": "2026-11-06T12:30:23.528691+00:00",
     "https://polygon.com/the-legend-of-zelda-ocarina-of-time-remake-water-temple-change": "2026-11-05T12:30:27.872227+00:00",
     "https://polygon.com/zach-creggers-resident-evil-sci-fi-horror-thriller-vod-digital": "2026-11-03T12:30:25.341419+00:00",
     "https://rikiyat.github.io/blog/weight-space-programming": "2026-11-03T12:30:25.341419+00:00",
@@ -51,16 +56,14 @@
     "https://theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank": "2026-10-29T11:30:26.722305+00:00",
     "https://theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates": "2026-11-02T12:30:26.858379+00:00",
     "https://theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates": "2026-11-04T12:30:28.833464+00:00",
+    "https://theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal": "2026-11-06T12:30:23.528691+00:00",
     "https://theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news": "2026-11-03T12:30:25.341419+00:00",
     "https://theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates": "2026-10-30T11:30:27.260408+00:00",
     "https://thehill.com/homenews/campaign/6175333-kaptur-wins-ohio-house-seat": "2026-11-04T12:30:28.833464+00:00",
-    "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes": "2026-10-30T11:30:27.260408+00:00"
+    "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes": "2026-10-30T11:30:27.260408+00:00",
+    "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet": "2026-11-06T12:30:23.528691+00:00"
   },
   "messages": [
-    {
-      "id": "1565689505934213209",
-      "posted": "2026-10-30T11:30:27.260408+00:00"
-    },
     {
       "id": "1566051781027303451",
       "posted": "2026-10-31T11:30:28.561975+00:00"
@@ -88,87 +91,13 @@
     {
       "id": "1567878810966429797",
       "posted": "2026-11-05T12:30:27.872227+00:00"
+    },
+    {
+      "id": "1568241216238256165",
+      "posted": "2026-11-06T12:30:23.528691+00:00"
     }
   ],
   "week": [
-    {
-      "category": "world",
-      "color": 338274,
-      "image": null,
-      "link": "https://www.theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank",
-      "picked": "2026-10-29T11:30:26.722305+00:00",
-      "published": "2026-10-29T09:10:22+00:00",
-      "score": 0.0,
-      "source": "The Guardian World",
-      "summary": "The Resolution Foundation has criticized Chancellor John Healey’s new budget as poorly targeted and ineffective at boosting living standards. The thinktank warns that the measures fail to protect the poorest households, leaving Britons facing higher energy bills and a significant drop in disposable income.",
-      "title": "‘Scattergun’ budget will still leave Britons facing higher energy bills, says thinktank",
-      "weight": 0.9
-    },
-    {
-      "category": "politics",
-      "color": 14032929,
-      "image": null,
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
-      "picked": "2026-10-29T11:30:26.722305+00:00",
-      "published": "2026-10-29T09:00:00+00:00",
-      "score": 0.0,
-      "source": "NPR Politics",
-      "summary": "With the 2026 midterm elections approaching, Democrats are heavily favored to win control of the House of Representatives. Both parties are pouring millions into 70 competitive districts to influence the final margin of power. This shift is driven by economic concerns and a wave of retirements that could reshape the legislative landscape.",
-      "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
-      "weight": 1.0
-    },
-    {
-      "category": "stem",
-      "color": 736657,
-      "image": null,
-      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
-      "picked": "2026-10-29T11:30:26.722305+00:00",
-      "published": "2026-10-29T02:49:59+00:00",
-      "score": 3.2,
-      "source": "NASA News",
-      "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on Nov. 30, 2026.",
-      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-      "weight": 0.8
-    },
-    {
-      "category": "health",
-      "color": 14032929,
-      "image": null,
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender",
-      "picked": "2026-10-29T11:30:26.722305+00:00",
-      "published": "2026-10-29T09:00:00+00:00",
-      "score": 0.0,
-      "source": "NPR Health",
-      "summary": "Missouri activists are conducting door-to-door \"deep canvassing\" to oppose a proposed constitutional amendment that would ban gender-affirming care for minors. This effort aims to sway undecided voters ahead of the midterms, as the state remains divided on the future of transgender healthcare access.",
-      "title": "Ahead of midterms, Missourians defend transgender healthcare",
-      "weight": 0.9
-    },
-    {
-      "category": "nba",
-      "color": 741026,
-      "image": null,
-      "link": "https://www.cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-76ers-on-wednesday/",
-      "picked": "2026-10-29T11:30:26.722305+00:00",
-      "published": "2026-10-28T22:13:32+00:00",
-      "score": 0.0,
-      "source": "CBS Sports NBA",
-      "summary": "The SportsLine projection model and expert analysts have released their top betting picks for Wednesday’s 12-game NBA slate. The model specifically favors the Philadelphia 76ers to cover as 5.5-point favorites against the Indiana Pacers. These insights are significant for bettors looking to leverage a model that has historically yielded consistent long-term profits.",
-      "title": "2026 NBA odds, picks, predictions, best bets, player props: Experts, model backing 76ers on Wednesday",
-      "weight": 0.9
-    },
-    {
-      "category": "gaming",
-      "color": 16711778,
-      "image": null,
-      "link": "https://www.polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained/",
-      "picked": "2026-10-29T11:30:26.722305+00:00",
-      "published": "2026-10-29T11:00:18+00:00",
-      "score": 0.0,
-      "source": "Polygon",
-      "summary": "Twenty years after its release, the *Avatar: The Last Airbender* episode \"The Guru\" remains a vital touchstone for understanding spiritual growth and emotional trauma. By teaching Aang to clear his chakras, Guru Pathik provides a framework for overcoming fear and guilt that continues to influence modern storytelling in the franchise.",
-      "title": "20 Years Later, Avatar’s Deepest Episode Has Never Been More Important",
-      "weight": 0.9
-    },
     {
       "category": "world",
       "color": 338274,
@@ -791,6 +720,97 @@
       "source": "Polygon",
       "summary": "Nintendo has updated the infamous Water Temple in the new *Ocarina of Time* remake for the Switch 2. By adding clearer visual signposting and improved item management, the developers have made this notoriously difficult dungeon much easier and more intuitive to navigate.",
       "title": "The Legend of Zelda: Ocarina of Time’s Changes to the Infamous Water Temple Are Actually Brilliant",
+      "weight": 0.9
+    },
+    {
+      "category": "world",
+      "color": 338274,
+      "image": null,
+      "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
+      "picked": "2026-11-06T12:30:23.528691+00:00",
+      "published": "2026-11-06T06:43:04+00:00",
+      "score": 0.0,
+      "source": "The Guardian World",
+      "summary": "A wave of hoax bomb threats against European flights and cyber-attacks on critical infrastructure have caused widespread disruption. These incidents highlight a growing \"grey zone\" of global instability, where state and non-state actors use sabotage to create fear and vulnerability without triggering conventional war.",
+      "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+      "weight": 0.9
+    },
+    {
+      "category": "politics",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+      "picked": "2026-11-06T12:30:23.528691+00:00",
+      "published": "2026-11-06T12:24:52+00:00",
+      "score": 0.0,
+      "source": "NPR Politics",
+      "summary": "A federal judge has temporarily blocked construction of President Trump’s 250-foot monument in Washington, D.C., citing concerns over its justification and potential harm to local areas. Meanwhile, the Labor Department is releasing a new jobs report expected to show modest growth, which remains critical for the Federal Reserve’s ongoing efforts to combat inflation.",
+      "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+      "weight": 1.0
+    },
+    {
+      "category": "tech",
+      "color": 16737792,
+      "image": null,
+      "link": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "picked": "2026-11-06T12:30:23.528691+00:00",
+      "published": "2026-11-06T04:17:49+00:00",
+      "score": 2.7,
+      "source": "Hacker News",
+      "summary": "Article URL: https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50388122 Points: 130 # Comments: 42",
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "weight": 0.9
+    },
+    {
+      "category": "stem",
+      "color": 736657,
+      "image": null,
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+      "picked": "2026-11-06T12:30:23.528691+00:00",
+      "published": "2026-11-05T15:11:25+00:00",
+      "score": 3.2,
+      "source": "NASA News",
+      "summary": "NASA astronauts Jessica Watkins and Luke Delaney will answer STEM questions from Florida students during a live broadcast from the International Space Station on November 10. This event aims to inspire interest in space exploration and future STEM careers.",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "weight": 0.8
+    },
+    {
+      "category": "health",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
+      "picked": "2026-11-06T12:30:23.528691+00:00",
+      "published": "2026-11-06T11:57:32+00:00",
+      "score": 0.0,
+      "source": "NPR Health",
+      "summary": "Former White House health adviser Dr. Raj Panjabi has released a new book, *Safer: A Playbook*, which provides strategies for managing personal and public health crises. Inspired by his daughter’s life-threatening illness, the guide offers actionable advice to help people overcome denial and navigate uncertainty during emergencies.",
+      "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+      "weight": 0.9
+    },
+    {
+      "category": "nba",
+      "color": 741026,
+      "image": null,
+      "link": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-5/",
+      "picked": "2026-11-06T12:30:23.528691+00:00",
+      "published": "2026-11-05T21:39:05+00:00",
+      "score": 0.0,
+      "source": "CBS Sports NBA",
+      "summary": "Major sportsbooks are offering over $3,000 in sign-up bonuses for new users betting on the NBA. These promotions provide incentives like bonus bets and subscriptions to attract customers during the ongoing 2026-27 season.",
+      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for November 5",
+      "weight": 0.9
+    },
+    {
+      "category": "gaming",
+      "color": 16711778,
+      "image": null,
+      "link": "https://www.polygon.com/sony-playstation-5-digital-blackout-failure-financial-records-confirm/",
+      "picked": "2026-11-06T12:30:23.528691+00:00",
+      "published": "2026-11-06T11:32:52+00:00",
+      "score": 1.8,
+      "source": "Polygon",
+      "summary": "A player-led boycott against Sony’s shift toward digital-only media failed to impact the company’s bottom line. Sony’s latest financial report shows that digital sales and user engagement actually increased, proving that the protest did not hinder their business growth.",
+      "title": "It's Official: The PlayStation Blackout Protest Did Nothing",
       "weight": 0.9
     }
   ]
