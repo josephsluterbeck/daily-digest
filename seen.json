@@ -1,14 +1,16 @@
 {
-  "last_posted": "2026-11-06",
+  "last_posted": "2026-11-07",
   "links": {
     "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours": "2026-10-31T11:30:28.561975+00:00",
     "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones": "2026-11-05T12:30:27.872227+00:00",
+    "https://asahilinux.org/2026/11/progress-report-7-3": "2026-11-07T12:30:23.876392+00:00",
     "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf": "2026-11-01T12:30:26.721708+00:00",
     "https://cbssports.com/betting/news/2026-nba-betting-promos-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-1": "2026-11-02T12:30:26.858379+00:00",
     "https://cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-5": "2026-11-06T12:30:23.528691+00:00",
     "https://cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-76ers-on-wednesday": "2026-10-29T11:30:26.722305+00:00",
     "https://cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams": "2026-10-30T11:30:27.260408+00:00",
     "https://cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play": "2026-10-31T11:30:28.561975+00:00",
+    "https://cbssports.com/betting/news/nba-player-props-odds-picks-jayson-tatum-donovan-mitchell-among-best-bets-friday": "2026-11-07T12:30:23.876392+00:00",
     "https://cbssports.com/betting/news/pacers-vs-grizzlies-nba-picks-indiana-should-have-more-players-available-against-surprising-memphis": "2026-11-05T12:30:27.872227+00:00",
     "https://cbssports.com/nba/news/jeanie-buss-lakers-sale-family-dispute": "2026-11-01T12:30:26.721708+00:00",
     "https://cbssports.com/nba/news/ty-jerome-linsanity-mvp-level-scoring-surprise": "2026-11-04T12:30:28.833464+00:00",
@@ -18,6 +20,7 @@
     "https://nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station": "2026-10-30T11:30:27.260408+00:00",
     "https://nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now": "2026-11-03T12:30:25.341419+00:00",
     "https://nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy": "2026-10-29T11:30:26.722305+00:00",
+    "https://nasa.gov/image-article/m30s-sparkling-stars": "2026-11-07T12:30:23.876392+00:00",
     "https://nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head": "2026-10-31T11:30:28.561975+00:00",
     "https://nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day": "2026-11-04T12:30:28.833464+00:00",
     "https://nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2": "2026-11-06T12:30:23.528691+00:00",
@@ -37,10 +40,13 @@
     "https://npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap": "2026-11-05T12:30:27.872227+00:00",
     "https://npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon": "2026-11-06T12:30:23.528691+00:00",
     "https://npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook": "2026-11-06T12:30:23.528691+00:00",
+    "https://npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma": "2026-11-07T12:30:23.876392+00:00",
+    "https://npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium": "2026-11-07T12:30:23.876392+00:00",
     "https://polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained": "2026-10-29T11:30:26.722305+00:00",
     "https://polygon.com/best-dark-comedy-show-comic-book-adaptation": "2026-11-01T12:30:26.721708+00:00",
     "https://polygon.com/bong-joon-ho-the-host-4k-interview": "2026-11-04T12:30:28.833464+00:00",
     "https://polygon.com/bully-20-years-later-sequel-retrospective": "2026-10-31T11:30:28.561975+00:00",
+    "https://polygon.com/funniest-far-side-comics-cows": "2026-11-07T12:30:23.876392+00:00",
     "https://polygon.com/lord-of-the-ring-gandalf-greatest-quote": "2026-11-02T12:30:26.858379+00:00",
     "https://polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo": "2026-10-30T11:30:27.260408+00:00",
     "https://polygon.com/sony-playstation-5-digital-blackout-failure-financial-records-confirm": "2026-11-06T12:30:23.528691+00:00",
@@ -58,16 +64,13 @@
     "https://theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates": "2026-11-04T12:30:28.833464+00:00",
     "https://theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal": "2026-11-06T12:30:23.528691+00:00",
     "https://theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news": "2026-11-03T12:30:25.341419+00:00",
+    "https://theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls": "2026-11-07T12:30:23.876392+00:00",
     "https://theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates": "2026-10-30T11:30:27.260408+00:00",
     "https://thehill.com/homenews/campaign/6175333-kaptur-wins-ohio-house-seat": "2026-11-04T12:30:28.833464+00:00",
     "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes": "2026-10-30T11:30:27.260408+00:00",
     "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet": "2026-11-06T12:30:23.528691+00:00"
   },
   "messages": [
-    {
-      "id": "1566051781027303451",
-      "posted": "2026-10-31T11:30:28.561975+00:00"
-    },
     {
       "id": "1566429308866789385",
       "posted": "2026-11-01T12:30:26.721708+00:00"
@@ -95,100 +98,13 @@
     {
       "id": "1568241216238256165",
       "posted": "2026-11-06T12:30:23.528691+00:00"
+    },
+    {
+      "id": "1568603574034759870",
+      "posted": "2026-11-07T12:30:23.876392+00:00"
     }
   ],
   "week": [
-    {
-      "category": "world",
-      "color": 338274,
-      "image": null,
-      "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-      "picked": "2026-10-30T11:30:27.260408+00:00",
-      "published": "2026-10-30T11:18:15+00:00",
-      "score": 0.0,
-      "source": "The Guardian World",
-      "summary": "Spanish Prime Minister Pedro Sánchez confirmed that at least 69 people died in a major train crash, with victims potentially representing 27 different nationalities. Authorities are investigating a suspected command and control failure to determine the cause and prevent future tragedies.",
-      "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
-      "weight": 0.9
-    },
-    {
-      "category": "politics",
-      "color": 1920649,
-      "image": null,
-      "link": "https://thehill.com/policy/technology/6182574-ai-data-centers-threaten-gop-votes/",
-      "picked": "2026-10-30T11:30:27.260408+00:00",
-      "published": "2026-10-30T10:00:00+00:00",
-      "score": 1.4,
-      "source": "The Hill",
-      "summary": "Salience around AI data centers is growing this election cycle as the fight over the infrastructure's costs and environmental impacts may be threatening Republicans in battleground states like Texas...",
-      "title": "Backlash to AI data centers threatens GOP's grip on Ohio, Texas",
-      "weight": 0.7
-    },
-    {
-      "category": "tech",
-      "color": 16737792,
-      "image": null,
-      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-      "picked": "2026-10-30T11:30:27.260408+00:00",
-      "published": "2026-10-30T11:05:53+00:00",
-      "score": 0.0,
-      "source": "Hacker News",
-      "summary": "Security researchers discovered potential backdoors in official Claude Code extensions that could allow unauthorized access to user environments. This vulnerability poses a significant risk to developers, as it could lead to the theft of sensitive data or credentials.",
-      "title": "Backdoors in official Claude Code extensions",
-      "weight": 0.9
-    },
-    {
-      "category": "stem",
-      "color": 736657,
-      "image": null,
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-      "picked": "2026-10-30T11:30:27.260408+00:00",
-      "published": "2026-10-29T21:44:23+00:00",
-      "score": 2.4000000000000004,
-      "source": "NASA News",
-      "summary": "International Space Station crews celebrate Halloween by creating costumes from available materials and posing for photos. These traditions highlight the human side of life in orbit while the station continues its vital role as a long-term scientific research platform.",
-      "title": "Halloween Aboard the International Space Station",
-      "weight": 0.8
-    },
-    {
-      "category": "health",
-      "color": 14032929,
-      "image": null,
-      "link": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
-      "picked": "2026-10-30T11:30:27.260408+00:00",
-      "published": "2026-10-30T09:00:00+00:00",
-      "score": 0.0,
-      "source": "NPR Health",
-      "summary": "Nearly two-thirds of American youth now use AI chatbots for schoolwork and emotional support. While the technology helps with tasks, researchers are concerned that relying on AI for mental health support may be linked to poorer well-being in teens and tweens.",
-      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
-      "weight": 0.9
-    },
-    {
-      "category": "nba",
-      "color": 741026,
-      "image": null,
-      "link": "https://www.cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams/",
-      "picked": "2026-10-30T11:30:27.260408+00:00",
-      "published": "2026-10-30T00:30:54+00:00",
-      "score": 0.0,
-      "source": "CBS Sports NBA",
-      "summary": "The Memphis Grizzlies and Portland Trail Blazers face off tonight in a matchup of two of the NBA's last three remaining unbeaten teams. This game marks Ja Morant’s first appearance against his former team, the Grizzlies, since being traded to Portland this summer.",
-      "title": "Grizzlies vs. Trail Blazers NBA picks: Portland's Ja Morant could get payback in battle of unbeaten teams",
-      "weight": 0.9
-    },
-    {
-      "category": "gaming",
-      "color": 16711778,
-      "image": null,
-      "link": "https://www.polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo/",
-      "picked": "2026-10-30T11:30:27.260408+00:00",
-      "published": "2026-10-30T11:20:38+00:00",
-      "score": 0.0,
-      "source": "Polygon",
-      "summary": "Artist Lauren Tsai and My Chemical Romance have released a stop-motion short film set to the band's song \"The End.\" Featuring cameos from Hideo Kojima, Billie Eilish, and Phoebe Bridgers, the project bridges Tsai’s \"The Dying World\" universe with the band's iconic *Black Parade* lore.",
-      "title": "My Chemical Romance and Lauren Tsai Team Up for Short Movie Featuring Hideo Kojima",
-      "weight": 0.9
-    },
     {
       "category": "world",
       "color": 338274,
@@ -811,6 +727,97 @@
       "source": "Polygon",
       "summary": "A player-led boycott against Sony’s shift toward digital-only media failed to impact the company’s bottom line. Sony’s latest financial report shows that digital sales and user engagement actually increased, proving that the protest did not hinder their business growth.",
       "title": "It's Official: The PlayStation Blackout Protest Did Nothing",
+      "weight": 0.9
+    },
+    {
+      "category": "world",
+      "color": 338274,
+      "image": null,
+      "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+      "picked": "2026-11-07T12:30:23.876392+00:00",
+      "published": "2026-11-07T12:24:38+00:00",
+      "score": 0.0,
+      "source": "The Guardian World",
+      "summary": "New Zealand’s general election remains undecided as the National and Labour blocs remain neck-and-neck. With hundreds of thousands of special votes still to be counted, the final government composition will likely depend on weeks of coalition negotiations.",
+      "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+      "weight": 0.9
+    },
+    {
+      "category": "politics",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+      "picked": "2026-11-07T12:30:23.876392+00:00",
+      "published": "2026-11-07T10:00:00+00:00",
+      "score": 0.0,
+      "source": "NPR Politics",
+      "summary": "Taylor Frazier McCollum, a local resident, successfully led a campaign to block a $5 billion data center project in Landover, Maryland, over environmental and health concerns. Her activism sparked a broader movement that resulted in multiple moratoriums on data centers, highlighting the growing national tension between industrial development and community interests.",
+      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+      "weight": 1.0
+    },
+    {
+      "category": "tech",
+      "color": 16737792,
+      "image": null,
+      "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "picked": "2026-11-07T12:30:23.876392+00:00",
+      "published": "2026-11-07T05:20:18+00:00",
+      "score": 2.7,
+      "source": "Hacker News",
+      "summary": "The Asahi Linux team has officially moved M3 chip support to general availability and submitted major audio and video drivers to the upstream Linux kernel. These advancements improve hardware compatibility and performance, while new virtualization capabilities now allow for reverse engineering on M4 and M5 Apple Silicon devices.",
+      "title": "Asahi Linux Progress Linux 7.3",
+      "weight": 0.9
+    },
+    {
+      "category": "stem",
+      "color": 736657,
+      "image": null,
+      "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+      "picked": "2026-11-07T12:30:23.876392+00:00",
+      "published": "2026-11-06T16:23:41+00:00",
+      "score": 0.8,
+      "source": "NASA News",
+      "summary": "The Hubble Space Telescope captured a new image of the globular star cluster Messier 30, located 27,500 light-years away in the constellation Capricornus. This cluster provides scientists with valuable insights into galactic history and the evolution of stars.",
+      "title": "M30’s Sparkling Stars",
+      "weight": 0.8
+    },
+    {
+      "category": "health",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+      "picked": "2026-11-07T12:30:23.876392+00:00",
+      "published": "2026-11-07T11:50:21+00:00",
+      "score": 0.0,
+      "source": "NPR Health",
+      "summary": "Aadvik Jain, an 18-year-old from India, received the Diana Award for his work combating menstrual stigma through his initiative, Team Period. He began the project after witnessing a friend suffer from untreated menstrual pain, highlighting the urgent need for open dialogue and better health access.",
+      "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+      "weight": 0.9
+    },
+    {
+      "category": "nba",
+      "color": 741026,
+      "image": null,
+      "link": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-jayson-tatum-donovan-mitchell-among-best-bets-friday/",
+      "picked": "2026-11-07T12:30:23.876392+00:00",
+      "published": "2026-11-06T22:22:46+00:00",
+      "score": 0.0,
+      "source": "CBS Sports NBA",
+      "summary": "The SportsLine Projection Model has released its top NBA player prop picks for Friday’s nine-game slate. Analysts are highlighting favorable bets for Jayson Tatum, Donovan Mitchell, and Walker Kessler based on statistical simulations.",
+      "title": "NBA player props, odds, picks: Jayson Tatum, Donovan Mitchell among best bets for Friday, Nov. 6",
+      "weight": 0.9
+    },
+    {
+      "category": "gaming",
+      "color": 16711778,
+      "image": null,
+      "link": "https://www.polygon.com/funniest-far-side-comics-cows/",
+      "picked": "2026-11-07T12:30:23.876392+00:00",
+      "published": "2026-11-07T12:14:17+00:00",
+      "score": 0.0,
+      "source": "Polygon",
+      "summary": "Cartoonist Gary Larson frequently featured cows in his surreal comic strip, *The Far Side*, because he found the animals inherently funny and tragic. These cow-themed panels became a hallmark of his work, often highlighting his unique ability to blend simple humor with absurd, human-like scenarios.",
+      "title": "10 Funniest 'Far Side' Comics About Cows",
       "weight": 0.9
     }
   ]
