@@ -1,7 +1,8 @@
 {
-  "last_posted": "2026-11-10",
+  "last_posted": "2026-11-11",
   "links": {
     "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours": "2026-10-31T11:30:28.561975+00:00",
+    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi": "2026-11-11T12:30:27.264646+00:00",
     "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones": "2026-11-05T12:30:27.872227+00:00",
     "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation": "2026-11-10T12:30:27.739484+00:00",
     "https://asahilinux.org/2026/11/progress-report-7-3": "2026-11-07T12:30:23.876392+00:00",
@@ -14,6 +15,7 @@
     "https://cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play": "2026-10-31T11:30:28.561975+00:00",
     "https://cbssports.com/betting/news/nba-player-props-odds-picks-jayson-tatum-donovan-mitchell-among-best-bets-friday": "2026-11-07T12:30:23.876392+00:00",
     "https://cbssports.com/betting/news/pacers-vs-grizzlies-nba-picks-indiana-should-have-more-players-available-against-surprising-memphis": "2026-11-05T12:30:27.872227+00:00",
+    "https://cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-ohio-miami-ohio-kentucky-kansas-celtics-76ers-nba": "2026-11-11T12:30:27.264646+00:00",
     "https://cbssports.com/nba/news/jeanie-buss-lakers-sale-family-dispute": "2026-11-01T12:30:26.721708+00:00",
     "https://cbssports.com/nba/news/man-arrested-stalking-lebron-james-los-angeles-home": "2026-11-08T12:30:21.775822+00:00",
     "https://cbssports.com/nba/news/thunder-trade-grades-nique-clifford-kings": "2026-11-09T12:30:29.745016+00:00",
@@ -32,6 +34,7 @@
     "https://nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge": "2026-11-09T12:30:29.745016+00:00",
     "https://nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications": "2026-11-05T12:30:27.872227+00:00",
     "https://nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects": "2026-11-08T12:30:21.775822+00:00",
+    "https://nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston": "2026-11-11T12:30:27.264646+00:00",
     "https://npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender": "2026-10-29T11:30:26.722305+00:00",
     "https://npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage": "2026-10-29T11:30:26.722305+00:00",
     "https://npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media": "2026-10-30T11:30:27.260408+00:00",
@@ -55,6 +58,8 @@
     "https://npr.org/2026/11/09/nx-s1-6034027/after-midterm-losses-trump-makes-changes-to-his-inner-circle": "2026-11-09T12:30:29.745016+00:00",
     "https://npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas": "2026-11-10T12:30:27.739484+00:00",
     "https://npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent": "2026-11-10T12:30:27.739484+00:00",
+    "https://npr.org/2026/11/11/nx-s1-6035795/close-trump-ally-to-lead-house-republicans-next-year": "2026-11-11T12:30:27.264646+00:00",
+    "https://npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak": "2026-11-11T12:30:27.264646+00:00",
     "https://polygon.com/anya-taylor-joy-sci-fi-netflix-super-mario-galaxy-movie": "2026-11-08T12:30:21.775822+00:00",
     "https://polygon.com/avatar-seven-havens-last-airbender-the-guru-chakras-explained": "2026-10-29T11:30:26.722305+00:00",
     "https://polygon.com/best-dark-comedy-show-comic-book-adaptation": "2026-11-01T12:30:26.721708+00:00",
@@ -64,6 +69,7 @@
     "https://polygon.com/gta-6-grand-theft-auto-preorders-nba-2k27": "2026-11-10T12:30:27.739484+00:00",
     "https://polygon.com/lord-of-the-ring-gandalf-greatest-quote": "2026-11-02T12:30:26.858379+00:00",
     "https://polygon.com/my-chemical-romance-mcr-lauren-tsai-short-film-kojima-cameo": "2026-10-30T11:30:27.260408+00:00",
+    "https://polygon.com/rings-of-power-rings-explained": "2026-11-11T12:30:27.264646+00:00",
     "https://polygon.com/sony-playstation-5-digital-blackout-failure-financial-records-confirm": "2026-11-06T12:30:23.528691+00:00",
     "https://polygon.com/the-legend-of-zelda-ocarina-of-time-remake-water-temple-change": "2026-11-05T12:30:27.872227+00:00",
     "https://polygon.com/wuthering-waves-wuwa-pushing-boundaries-next-evolution-anime-action-rpgs": "2026-11-09T12:30:29.745016+00:00",
@@ -76,6 +82,7 @@
     "https://theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-": "2026-11-01T12:30:26.721708+00:00",
     "https://theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham": "2026-10-31T11:30:28.561975+00:00",
     "https://theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour": "2026-11-05T12:30:27.872227+00:00",
+    "https://theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates": "2026-11-11T12:30:27.264646+00:00",
     "https://theguardian.com/uk-news/2026/oct/29/scattergun-budget-leave-britons-higher-energy-bills-thinktank": "2026-10-29T11:30:26.722305+00:00",
     "https://theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates": "2026-11-09T12:30:29.745016+00:00",
     "https://theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms": "2026-11-08T12:30:21.775822+00:00",
@@ -92,10 +99,6 @@
     "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet": "2026-11-06T12:30:23.528691+00:00"
   },
   "messages": [
-    {
-      "id": "1567516735135813709",
-      "posted": "2026-11-04T12:30:28.833464+00:00"
-    },
     {
       "id": "1567878810966429797",
       "posted": "2026-11-05T12:30:27.872227+00:00"
@@ -123,100 +126,13 @@
     {
       "id": "1569691069652668448",
       "posted": "2026-11-10T12:30:27.739484+00:00"
+    },
+    {
+      "id": "1570053500891697200",
+      "posted": "2026-11-11T12:30:27.264646+00:00"
     }
   ],
   "week": [
-    {
-      "category": "world",
-      "color": 338274,
-      "image": null,
-      "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-      "picked": "2026-11-03T12:30:25.341419+00:00",
-      "published": "2026-11-03T12:19:54+00:00",
-      "score": 0.0,
-      "source": "The Guardian World",
-      "summary": "Flights from London, Copenhagen, Manchester and Israel affected by bomb threats Jakub Krupa If you are joining us now, we are following reports about at least four planes affected by bomb threats across Europe this morning: two in Poland (from the UK 10:33, 10:58, 12:00 and Denmark 11:33, 12:59), one in Bulgaria (from Israel 12:50), and one in Spain (from the UK 12:44).",
-      "title": "Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live",
-      "weight": 0.9
-    },
-    {
-      "category": "politics",
-      "color": 14032929,
-      "image": null,
-      "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
-      "picked": "2026-11-03T12:30:25.341419+00:00",
-      "published": "2026-11-03T11:43:49+00:00",
-      "score": 0.0,
-      "source": "NPR Politics",
-      "summary": "Control of Congress is at stake today. And, judge to consider motion in Clancy case Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day. Today's top stories Election Day has arrived. This campaign has the biggest price tag in U.S. history.",
-      "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-      "weight": 1.0
-    },
-    {
-      "category": "tech",
-      "color": 16737792,
-      "image": null,
-      "link": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "picked": "2026-11-03T12:30:25.341419+00:00",
-      "published": "2026-11-02T18:21:28+00:00",
-      "score": 0.0,
-      "source": "Hacker News",
-      "summary": "We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms. This might be a big deal for both optimization and interpretability. Just by looking at the raw weights, GPT-6 Astra can tell what a network was trained to do.",
-      "title": "Astra can read and write weights to improve Qwen",
-      "weight": 0.9
-    },
-    {
-      "category": "stem",
-      "color": 736657,
-      "image": null,
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-      "picked": "2026-11-03T12:30:25.341419+00:00",
-      "published": "2026-11-02T21:35:59+00:00",
-      "score": 4.800000000000001,
-      "source": "NASA News",
-      "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis.",
-      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "weight": 0.8
-    },
-    {
-      "category": "health",
-      "color": 14032929,
-      "image": null,
-      "link": "https://www.npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin",
-      "picked": "2026-11-03T12:30:25.341419+00:00",
-      "published": "2026-11-02T21:31:10+00:00",
-      "score": 0.0,
-      "source": "NPR Health",
-      "summary": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others? Donna Gustafson is living a cancer patient's fantasy. At 72, the retired accountant hikes, travels, lifts weights, and exchanges adoring glances with Ed, the husband she married 50 years ago.",
-      "title": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others?",
-      "weight": 0.9
-    },
-    {
-      "category": "nba",
-      "color": 741026,
-      "image": null,
-      "link": "https://www.cbssports.com/nba/news/victor-wembanyama-60-minutes-barefoot-gregg-popovich-gambling-villain/",
-      "picked": "2026-11-03T12:30:25.341419+00:00",
-      "published": "2026-11-02T20:33:20+00:00",
-      "score": 0.0,
-      "source": "CBS Sports NBA",
-      "summary": "It is increasingly rare in the NBA (and professional sports as a whole) for a star athlete to sit down for an extended, on-the-record interview. While athletes have found other means of communicating with fans, such interviews can offer rare, less-filtered glimpses into what the player is going through both on and off the court.",
-      "title": "Five things we learned from Victor Wembanyama's '60 Minutes' interview, including why he loves going barefoot",
-      "weight": 0.9
-    },
-    {
-      "category": "gaming",
-      "color": 16711778,
-      "image": null,
-      "link": "https://www.polygon.com/zach-creggers-resident-evil-sci-fi-horror-thriller-vod-digital/",
-      "picked": "2026-11-03T12:30:25.341419+00:00",
-      "published": "2026-11-03T12:23:18+00:00",
-      "score": 0.0,
-      "source": "Polygon",
-      "summary": "Director Zach Cregger, known for Barbarian and Weapons, proved he was ready to tackle the behemoth task of taking on a franchise when he took on the latest adaptation of Capcom’s Resident Evil video game series. In just the first week alone, Cregger’s Resident Evil raked in $60 million at the domestic box office.",
-      "title": "Zach Cregger's Resident Evil Is Officially Coming Home",
-      "weight": 0.9
-    },
     {
       "category": "world",
       "color": 338274,
@@ -839,6 +755,97 @@
       "source": "Polygon",
       "summary": "Take-Two Interactive CEO Strauss Zelnick reports that *Grand Theft Auto 6* pre-orders are exceeding expectations at unprecedented levels. The massive hype for this release is impacting the company's other titles, as the anticipation for *GTA 6* has overshadowed the sales performance of *NBA 2K27*.",
       "title": "GTA 6 Presales Are 'Running Far in Excess of Our Expectations,' Take-Two Interactive CEO Says",
+      "weight": 0.9
+    },
+    {
+      "category": "world",
+      "color": 338274,
+      "image": null,
+      "link": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
+      "picked": "2026-11-11T12:30:27.264646+00:00",
+      "published": "2026-11-11T12:14:42+00:00",
+      "score": 0.0,
+      "source": "The Guardian World",
+      "summary": "Prime Minister Andy Burnham and Conservative leader Kemi Badenoch clashed at PMQs over energy policy and census reform. Burnham expressed support for a bill adding \"Black English\" and \"Asian English\" as census options, while both leaders traded accusations regarding government competence and energy project approvals.",
+      "title": "Burnham faces Badenoch at PMQs following huge windfarm approval – UK politics live",
+      "weight": 0.9
+    },
+    {
+      "category": "politics",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6035795/close-trump-ally-to-lead-house-republicans-next-year",
+      "picked": "2026-11-11T12:30:27.264646+00:00",
+      "published": "2026-11-11T10:02:52+00:00",
+      "score": 1.0,
+      "source": "NPR Politics",
+      "summary": "Ohio Representative Jim Jordan, a close ally of Donald Trump and co-founder of the Freedom Caucus, will lead House Republicans starting in January. This leadership change signals a shift toward a more conservative agenda for the party in the new Congress.",
+      "title": "Close Trump ally to lead House Republicans next year",
+      "weight": 1.0
+    },
+    {
+      "category": "tech",
+      "color": 16731648,
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-500x500.webp",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "picked": "2026-11-11T12:30:27.264646+00:00",
+      "published": "2026-11-10T21:12:59+00:00",
+      "score": 0.0,
+      "source": "Ars Technica",
+      "summary": "Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets—from thousands of its users, including the very same Elon Musk-owned company that offers the platform, new research shows. The information is revealed through links allowing Grok Build users to share their apps with others.",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "weight": 1.0
+    },
+    {
+      "category": "stem",
+      "color": 736657,
+      "image": null,
+      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+      "picked": "2026-11-11T12:30:27.264646+00:00",
+      "published": "2026-11-10T18:06:33+00:00",
+      "score": 4.0,
+      "source": "NASA News",
+      "summary": "The Expedition 74 crew will share highlights from their recent long-duration mission at a public event at Space Center Houston on November 17. The astronauts spent over seven months on the International Space Station conducting critical scientific research to support future Artemis lunar missions.",
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "weight": 0.8
+    },
+    {
+      "category": "health",
+      "color": 14032929,
+      "image": null,
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+      "picked": "2026-11-11T12:30:27.264646+00:00",
+      "published": "2026-11-11T09:16:01+00:00",
+      "score": 0.0,
+      "source": "NPR Health",
+      "summary": "Congo’s Ebola outbreak has surpassed 11,000 cases and 5,300 deaths, marking the country's deadliest epidemic. Ongoing violence, misinformation, and a fragile health system are hindering containment efforts, raising concerns about the virus's continued spread across the region.",
+      "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+      "weight": 0.9
+    },
+    {
+      "category": "nba",
+      "color": 741026,
+      "image": null,
+      "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-ohio-miami-ohio-kentucky-kansas-celtics-76ers-nba/",
+      "picked": "2026-11-11T12:30:27.264646+00:00",
+      "published": "2026-11-10T15:26:31+00:00",
+      "score": 2.7,
+      "source": "CBS Sports NBA",
+      "summary": "The latest FanDuel promo code gives new users $200 in bonus bets when they wager $5+ for four days, and Tuesday is loaded with sports betting options. College football Week 11 kicks off with MACtion, featuring Ohio vs. Miami (Ohio) in a key conference showdown, and Celtics vs. 76ers is one of six NBA games. There's also a big college basketball doubleheader with Duke vs.",
+      "title": "Use FanDuel promo code to get $200 bonus bets for Ohio-Miami (Ohio), Kentucky-Kansas, Celtics-76ers, NBA",
+      "weight": 0.9
+    },
+    {
+      "category": "gaming",
+      "color": 16711778,
+      "image": null,
+      "link": "https://www.polygon.com/rings-of-power-rings-explained/",
+      "picked": "2026-11-11T12:30:27.264646+00:00",
+      "published": "2026-11-11T12:30:18+00:00",
+      "score": 0.0,
+      "source": "Polygon",
+      "summary": "As the name of the series implies, The Lord of the Rings: The Rings of Power is focused on how the Dark Lord Sauron (Charlie Vickers) forged the Rings of Power as part of a scheme to control all of Middle-earth.",
+      "title": "Where are all the rings in The Lord of the Rings: The Rings of Power season 3?",
       "weight": 0.9
     }
   ]
