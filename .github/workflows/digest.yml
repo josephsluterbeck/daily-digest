@@ -34,6 +34,16 @@ jobs:
             
             - name: Install dependencies
               run: pip install -r requirements.txt
+
+            # seen.json lives on the "state" branch so main stays free of bot commits
+            - name: Load seen.json
+              run: |
+                if git fetch --depth=1 origin state; then
+                  git show FETCH_HEAD:seen.json > seen.json
+                  echo "STATE_TREE=$(git rev-parse FETCH_HEAD^{tree})" >> "$GITHUB_ENV"
+                else
+                  echo "No state branch yet; starting fresh."
+                fi
             
             - name: Send digest
               env:
@@ -49,11 +59,12 @@ jobs:
               run: |
                 git config user.name "github-actions[bot]"
                 git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-                git add seen.json
-                if git diff --cached --quiet; then
+                blob=$(git hash-object -w seen.json)
+                tree=$(printf '100644 blob %s\tseen.json\n' "$blob" | git mktree)
+                if [ "$tree" = "${STATE_TREE:-}" ]; then
                   echo "No changes to seen.json"
                 else
-                  git commit -m "Update seen.json [skip ci]"
-                  git pull --rebase
-                  git push
+                  # One-commit branch, replaced on every run
+                  commit=$(git commit-tree "$tree" -m "Update seen.json")
+                  git push --force origin "$commit:refs/heads/state"
                 fi

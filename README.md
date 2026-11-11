@@ -34,7 +34,7 @@ fetch feeds → keep last 24h → skip already posted → dedupe → pick best p
 | `digest/summarize.py` | Extracts article text (trafilatura) and summarizes it (Gemini) |
 | `digest/post.py` | Sends and deletes Discord webhook messages within Discord's limits |
 | `digest/state.py` | Reads and writes `seen.json` |
-| `seen.json` | Posted links, this week's picks and message IDs; updated by the workflow after each run |
+| `seen.json` | Posted links, this week's picks and message IDs; kept on the `state` branch (not `main`) and updated by the workflow after each run |
 | `digest/main.py` | Runs the whole pipeline; `--dry-run` prints instead of sending |
 | `config.yaml` | Sources, categories, keywords and settings |
 
@@ -95,7 +95,7 @@ The workflow has a daily `schedule`, but GitHub often starts scheduled runs hour
 
 The GitHub schedule stays on as a backup. If the digest already went out that day, a late scheduled run skips itself.
 
-> The workflow commits `seen.json` after every run, so run `git pull` before making local changes.
+> The workflow keeps `seen.json` on a separate `state` branch, so `main` gets no bot commits. To look at it locally: `git fetch origin state && git show FETCH_HEAD:seen.json`.
 
 ## Customizing `config.yaml`
 
